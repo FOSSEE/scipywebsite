@@ -1,0 +1,19 @@
+{% extends "base.html" %}
+
+{% block title %}Edit Talk{% endblock %}
+
+{% block content %}
+<h1>Edit Talk</h1>
+
+{% include '_errors.html' %}
+<form action="{% url scipycon_edit_talk params.scope id %}" method="post">
+    <fieldset>
+      <legend>Edit Talk</legend>
+      <table class="scipycon-default">
+        {{ form }}
+      </table>
+
+      <button class="button left" type="submit">Save Changes</button>
+    </fieldset>
+</form>
+{% endblock content %}

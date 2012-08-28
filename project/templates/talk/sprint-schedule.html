@@ -1,0 +1,31 @@
+{% extends "base.html" %}
+{% block content %}
+<h1>SciPy.in 2011 Sprint Schedule</h1>
+<h2>Day 5, Thursday, December 8th, 2011 </h2>
+<h2>Topics</h3>
+<ol>
+<li>Changing Mayavi/TVTK to use VTK's "new" pipeline.</li>
+	<ul>
+		<li>Mayavi currently uses VTK's old pipeline structure and this is to be
+		deprecated in future VTK releases.  This is important for the future
+		of Mayavi.</li>
+		<li>See <a href="http://www.vtk.org/Wiki/VTK/Tutorials/New_Pipeline">here</a></li>
+		<li>This change will be invasive and will require a fair bit of work.  You
+		will need to know VTK fairly well and also Traits and Mayavi.
+		</li>
+		<li>Documentation on Traits, Mayavi and Envisage are available from <a href="http://github.enthought.com/">here</a></li>
+	</ul>
+	<br /><br />
+<li>Improving PyQt/PySide support.</li>
+	<ul>
+		<li>Mayavi's support for PyQt/Pyside is not tested and doesn't work
+		properly.  We will try to fix this if time permits.  Requires
+		knowledge of TraitsUI and PyQt/PySide.</li>
+	</ul>
+</ol>
+
+<h2 id="sec-1"><span class="section-number-3"></span>Intended audience </h2>
+<p>These sprint sessions are for those who already have a through 
+knowledge about the given topics and are willing to contribute to open source projects.</p>
+<p>Please contact Puneeth &lt;puneeth [at] enthought.com&gt; or Pankaj &lt;pankaj [at] enthought.com&gt; to register and know more about the sessions</p> 
+{% endblock content %}

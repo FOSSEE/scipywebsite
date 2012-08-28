@@ -1,0 +1,33 @@
+{% extends "base.html" %}
+
+{% block title %}
+Registrations
+{% endblock %}
+
+{% block content %}
+
+<h1>Registration Statistics</h1>
+
+    {% if over_reg %}
+    <div class="notice">
+      We have already reached the total number of registrations for the
+      conference.  If you would like to be put on a waiting list in the event
+      that someone can't make it to the conference, please follow the link
+      below to register and we will be in contact if a registration spot comes
+      available.
+    </div>
+    {% endif %}
+
+<p>
+  Currently <strong>{{ registrations }}</strong> people have registered
+  to attend {{ event.get_full_name }}.
+</p>
+
+{% if not registration %}
+  <p>
+    To attend {{ event.get_full_name }} please <a href="
+    {% url scipycon_submit_registration params.scope %}">register</a>
+  </p>
+{% endif %}
+
+{% endblock %}

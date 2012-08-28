@@ -1,0 +1,116 @@
+<div id="left-inner">
+  <ul>
+    <li><a href="/{{ params.scope }}/">Home</a></li>
+    <!-- <li>
+      <a href="/{{ params.scope }}/download_slides/">
+        Download Slides <font color="red">(New)</font>
+      </a>
+    </li>
+    <li>
+      <a href="/{{ params.scope }}/download_videos/">
+        Download Videos <font color="red">(New)</font>
+      </a>
+    </li> -->
+    <li><a href="/{{ params.scope }}/submit-registration/">Registration</a></li>
+    <li>
+      <ul>
+        <li>
+          <a href="/{{ params.scope }}/about/fees/">Fees</a>
+        </li>
+      </ul>
+    </li>
+    <li>
+    <a href="/{{ params.scope }}/about/dates/">Important Dates</a>
+    </li>
+    <li>
+      Conference & CFP
+      <ul>
+        <li>
+          <a href="/{{ params.scope }}/talks-cfp/">Call for Papers</a>
+        </li>
+          <a href="/{{ params.scope }}/talks-cfp/schedule/">
+            Schedule
+          </a>
+		<li>
+          <a href="/{{ params.scope }}/talks-cfp/conference/">
+            Conference
+          </a>
+        </li>
+        <li>
+              <a href="/{{ params.scope }}/talks-cfp/tutorial/">
+            Tutorial Schedule
+              </a>
+        </li>
+        <li>
+          <a href="/{{ params.scope }}/talks-cfp/sprint/">
+            Sprint Plan &amp; Schedule
+          </a>
+        </li>
+        <li>
+          <a href="/{{ params.scope }}/talks-cfp/speakers/">
+            Invited Speakers
+          </a>
+        </li>
+        {% if user.is_authenticated and user.talk_set.all %}
+        <li><a href="/{{ params.scope }}/my-talks">My talks</a></li>
+        {% endif %}
+	
+      </ul>
+    </li>
+    <!-- <li>
+      <a href="/{{ params.scope }}/tutorial/">
+      Tutorials
+      </a>
+    </li>
+    <li>
+      <a href="/{{ params.scope }}/sprints/">
+      Sprints
+      </a>
+    </li> -->
+    <li>
+      <a href="/{{ params.scope }}/certificates/">
+      Certificates
+      </a>
+    </li>
+    <li>
+      About
+      <ul>
+        <!-- <li>
+          <a href="/{{ params.scope }}/about/accommodation/">
+          Accommodation
+          </a>
+        </li>
+        <li>
+          <a href="/{{ params.scope }}/about/food/">Food</a>
+        </li> -->
+        <li><a href="/{{ params.scope }}/about/venue/">The Venue</a></li>
+        <!-- <li><a href="/{{ params.scope }}/about/city/">Host City - Mumbai</a></li> -->
+        <li>
+          <a href="/{{ params.scope }}/about/reaching/">Reaching the venue</a>
+        </li>
+	<li>
+          <a href="/{{ params.scope }}/about/contact/">Contact us</a>
+        </li>
+      </ul>
+    </li>
+    <!-- <li><a href="/{{ params.scope }}/publicity/">Publicity</a></li>
+    <li><a href="/{{ params.scope }}/organizers/">Organizers</a></li> -->
+    <li><a href="/{{ params.scope }}/about/sponsors/">Sponsors</a></li>
+    {% if user.is_staff %}
+    <li><a href="/{{ params.scope }}/regstats/">Registration Statistics</a></li>
+    {% endif %}
+    {% if user.is_superuser %}
+    <li><a href="/{{ params.scope }}/manage_payments/">Manage Payments</a></li>
+    {% endif %}
+    <li>Live Blog
+		<ul>
+			<li><a href="/{{ params.scope }}/about/day_zero/">Day 0</a></li>
+			<li><a href="/{{ params.scope }}/about/day_one/">Day 1</a></li>
+			<li><a href="/{{ params.scope }}/about/day_two/">Day 2</a></li>
+		</ul>
+	</li>
+	
+	<li><a href="/{{ params.scope }}/about/speakerinfo/">Speaker Info</a></li>
+	
+  </ul>
+</div>

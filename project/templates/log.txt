@@ -1,0 +1,2592 @@
+changeset:   478:a88ada45cd56
+branch:      2011
+tag:         tip
+user:        primal primal007@gmail.com
+date:        Sat Dec 03 07:38:45 2011 +0530
+summary:     Speaker name changed
+
+changeset:   477:54e05b1ec765
+branch:      2011
+user:        primal primal007@gmail.com
+date:        Fri Dec 02 22:58:26 2011 +0530
+summary:     Changes in tutorial and schedule
+
+changeset:   476:b589c15fa60f
+branch:      2011
+parent:      475:6f5e358c0a10
+parent:      474:7b4e105b68ba
+user:        Primal Pappachan <primal007@gmail.com>
+date:        Fri Dec 02 16:48:56 2011 +0530
+summary:     merged
+
+changeset:   475:6f5e358c0a10
+branch:      2011
+parent:      471:83ea39f44032
+user:        Primal Pappachan <primal007@gmail.com>
+date:        Fri Dec 02 16:48:45 2011 +0530
+summary:     Outstanding changes
+
+changeset:   474:7b4e105b68ba
+branch:      2011
+user:        Parth buch <parth.buch.115@gmail.com>
+date:        Fri Dec 02 16:36:14 2011 +0530
+summary:     Added news & update section and removed the notice
+
+changeset:   473:02ebcf395866
+branch:      2011
+parent:      472:40025d462588
+parent:      470:8474b14179cf
+user:        Parth buch <parth.buch.115@gmail.com>
+date:        Fri Dec 02 16:12:58 2011 +0530
+summary:     merged changes from primal
+
+changeset:   472:40025d462588
+branch:      2011
+parent:      469:5dee004481b0
+user:        Parth buch <parth.buch.115@gmail.com>
+date:        Fri Dec 02 16:10:48 2011 +0530
+summary:     Added map and map markers to the venue page
+
+changeset:   471:83ea39f44032
+branch:      2011
+parent:      468:5610783f66d6
+parent:      470:8474b14179cf
+user:        Primal Pappachan <primal007@gmail.com>
+date:        Fri Dec 02 16:11:19 2011 +0530
+summary:     Merged heads
+
+changeset:   470:8474b14179cf
+branch:      2011
+user:        primal primal007@gmail.com
+date:        Fri Dec 02 15:56:57 2011 +0530
+summary:     Change in schedule
+
+changeset:   469:5dee004481b0
+branch:      2011
+parent:      467:bbb9a44c0c14
+user:        primal primal007@gmail.com
+date:        Fri Dec 02 15:15:32 2011 +0530
+summary:     Change in schedule and message on menu
+
+changeset:   468:5610783f66d6
+branch:      2011
+parent:      460:c8068bc1d7c3
+parent:      467:bbb9a44c0c14
+user:        Primal Pappachan <primal007@gmail.com>
+date:        Thu Dec 01 19:05:43 2011 +0530
+summary:     merged branches
+
+changeset:   467:bbb9a44c0c14
+branch:      2011
+user:        primal primal007@gmail.com
+date:        Thu Dec 01 15:17:45 2011 +0530
+summary:     Typo Fix
+
+changeset:   466:018f78781cf0
+branch:      2011
+user:        primal primal007@gmail.com
+date:        Thu Dec 01 14:59:47 2011 +0530
+summary:     Small typo fix
+
+changeset:   465:cec3c7dc4138
+branch:      2011
+user:        primal primal007@gmail.com
+date:        Thu Dec 01 14:50:55 2011 +0530
+summary:     Small fix
+
+changeset:   464:f54903f0c28e
+branch:      2011
+user:        primal primal007@gmail.com
+date:        Thu Dec 01 14:09:23 2011 +0530
+summary:     Added contact page
+
+changeset:   463:a2f9aecd5f57
+branch:      2011
+user:        primal primal007@gmail.com
+date:        Wed Nov 30 19:21:50 2011 +0530
+summary:     Typos in schedule
+
+changeset:   462:4be31211634a
+branch:      2011
+user:        primal primal007@gmail.com
+date:        Wed Nov 30 15:39:35 2011 +0530
+summary:     Changes in Conference Schedule
+
+changeset:   461:4e50c25edb04
+branch:      2011
+parent:      459:6cd2a8ce6662
+user:        primal primal007@gmail.com
+date:        Wed Nov 30 13:25:05 2011 +0530
+summary:     Changes in Ole Nielson Tutorial and Gael Talk
+
+changeset:   460:c8068bc1d7c3
+branch:      2011
+user:        Primal Pappachan <primal007@gmail.com>
+date:        Wed Nov 30 12:42:05 2011 +0530
+summary:     Edited Ole Nielson's Tutorial Description
+
+changeset:   459:6cd2a8ce6662
+branch:      2011
+user:        Parth buch <parth.buch.115@gmail.com>
+date:        Thu Nov 24 17:42:13 2011 +0530
+summary:     changed a bit on the sprint page
+
+changeset:   458:65046b88b989
+branch:      2011
+user:        Parth buch <parth.buch.115@gmail.com>
+date:        Thu Nov 24 17:33:59 2011 +0530
+summary:     fixed a typo in urls.py
+
+changeset:   457:b29742d04112
+branch:      2011
+user:        Parth buch <parth.buch.115@gmail.com>
+date:        Thu Nov 24 17:26:19 2011 +0530
+summary:     fixed a typo in urls.py
+
+changeset:   456:1ea27f0622f8
+branch:      2011
+user:        Parth buch <parth.buch.115@gmail.com>
+date:        Thu Nov 24 17:22:17 2011 +0530
+summary:     fixed a typo in urls.py
+
+changeset:   455:a61c960d90f2
+branch:      2011
+user:        Parth buch <parth.buch.115@gmail.com>
+date:        Thu Nov 24 17:20:18 2011 +0530
+summary:     fixed a typo in urls.py
+
+changeset:   454:2d3479837338
+branch:      2011
+user:        Parth buch <parth.buch.115@gmail.com>
+date:        Thu Nov 24 17:18:14 2011 +0530
+summary:     Added the sprint page
+
+changeset:   453:62063e573649
+branch:      2011
+user:        Parth buch <parth.buch.115@gmail.com>
+date:        Thu Nov 24 16:43:31 2011 +0530
+summary:     Added Emmanuelle's bio to speakers page
+
+changeset:   452:cfe15b533040
+branch:      2011
+user:        Parth buch <parth.buch.115@gmail.com>
+date:        Thu Nov 24 11:35:32 2011 +0530
+summary:     Updated the Conf page with abstracts
+
+changeset:   451:009e28b3d11d
+branch:      2011
+user:        Parth buch <parth.buch.115@gmail.com>
+date:        Thu Nov 24 09:55:15 2011 +0530
+summary:     Updated h4 tag to add color
+
+changeset:   450:c4e4cee8b99a
+branch:      2011
+user:        Parth buch <parth.buch.115@gmail.com>
+date:        Thu Nov 24 09:39:22 2011 +0530
+summary:     replaced the usernames with real names on the conf schedule page
+
+changeset:   449:50770620ea7f
+branch:      2011
+user:        Parth buch <parth.buch.115@gmail.com>
+date:        Thu Nov 24 09:29:05 2011 +0530
+summary:     added the complete tutorial schedule to the tutorial page
+
+changeset:   448:7167b896d8de
+branch:      2011
+user:        Parth buch <parth.buch.115@gmail.com>
+date:        Sat Nov 19 13:26:28 2011 +0530
+summary:     Changed the Tutorial page
+
+changeset:   447:f91c329e13b5
+branch:      2011
+user:        Parth buch <parth.buch.115@gmail.com>
+date:        Tue Nov 15 02:25:12 2011 +0530
+summary:     activated the tutorials schedule
+
+changeset:   446:e98f6525c7b0
+branch:      2011
+user:        Parth buch <parth.buch.115@gmail.com>
+date:        Sat Nov 12 16:39:00 2011 +0530
+summary:     Declaring the conf schedule
+
+changeset:   445:e9d82f923cd5
+branch:      2011
+user:        Parth buch <parth.buch.115@gmail.com>
+date:        Wed Nov 09 16:40:23 2011 +0530
+summary:     added ajith and ole's pics
+
+changeset:   444:3c612f342b99
+branch:      2011
+user:        Parth buch <parth.buch.115@gmail.com>
+date:        Wed Nov 09 16:39:54 2011 +0530
+summary:     Added ole and ajith as invited guests
+
+changeset:   443:7fe2b15ee82f
+branch:      2011
+user:        Parth buch <parth.buch.115@gmail.com>
+date:        Wed Nov 02 23:32:11 2011 +0530
+summary:     Changed the edit-talk link to include params.scope Bug:notified by mateusz/jarrod
+
+changeset:   442:6f06b1457e55
+branch:      2011
+user:        Parth buch <parth.buch.115@gmail.com>
+date:        Mon Oct 31 09:34:17 2011 +0530
+summary:     added the submitted dates to filters
+
+changeset:   441:1a8ed55cc335
+branch:      2011
+user:        Parth buch <parth.buch.115@gmail.com>
+date:        Mon Oct 31 09:31:04 2011 +0530
+summary:     added the submitted date to admin panel
+
+changeset:   440:04c3084c412b
+branch:      2011
+user:        Parth buch <parth.buch.115@gmail.com>
+date:        Mon Oct 31 09:25:37 2011 +0530
+summary:     changed the fb link
+
+changeset:   439:da0c2e87922d
+branch:      2011
+user:        Parth buch <parth.buch.115@gmail.com>
+date:        Mon Oct 31 09:24:44 2011 +0530
+summary:     changed the order of mhrd and enthought
+
+changeset:   438:1e4bffd3c917
+branch:      2011
+user:        Parth buch <parth.buch.115@gmail.com>
+date:        Mon Oct 31 09:22:35 2011 +0530
+summary:     changed the dates in talks-cfp page as well
+
+changeset:   437:47dfebb899c7
+branch:      2011
+user:        Parth buch <parth.buch.115@gmail.com>
+date:        Wed Oct 26 21:47:22 2011 +0530
+summary:     changed the important dates
+
+changeset:   436:4899e9c34962
+branch:      2011
+user:        Parth buch <parth.buch.115@gmail.com>
+date:        Tue Oct 04 16:01:59 2011 +0530
+summary:     changed the link to registration stats
+
+changeset:   435:e53db918f80a
+branch:      2011
+user:        Parth buch <parth.buch.115@gmail.com>
+date:        Tue Oct 04 15:21:05 2011 +0530
+summary:     added the real link to the facebook page :P
+
+changeset:   434:fbf05ff6dccc
+branch:      2011
+user:        Parth buch <parth.buch.115@gmail.com>
+date:        Tue Oct 04 15:16:52 2011 +0530
+summary:     added important dates to CFP page as per the suggestion of Punit
+
+changeset:   433:803763334c6d
+branch:      2011
+user:        Parth buch <parth.buch.115@gmail.com>
+date:        Tue Oct 04 15:08:05 2011 +0530
+summary:     added gaels image
+
+changeset:   432:d3d92744dc89
+branch:      2011
+user:        Parth buch <parth.buch.115@gmail.com>
+date:        Tue Oct 04 15:05:52 2011 +0530
+summary:     Added Gael to speakers page
+
+changeset:   431:9674d40c44e7
+branch:      2011
+user:        Parth buch <parth.buch.115@gmail.com>
+date:        Tue Oct 04 14:47:17 2011 +0530
+summary:     added google analytics code
+
+changeset:   430:54375874dac1
+branch:      2011
+user:        Parth buch <parth.buch.115@gmail.com>
+date:        Sat Oct 01 04:01:10 2011 +0530
+summary:     syntax error
+
+changeset:   429:cde70fd3073c
+branch:      2011
+user:        Parth buch <parth.buch.115@gmail.com>
+date:        Sat Oct 01 03:59:03 2011 +0530
+summary:     changed the handler404 and handler500 to a custom view, passing scope to get proper formed urls when displaying 404 and 500 pages
+
+changeset:   428:d7fefdb4b947
+branch:      2011
+user:        Parth buch <parth.buch.115@gmail.com>
+date:        Sat Oct 01 03:57:37 2011 +0530
+summary:     replaced django url tags with get_absolute_url
+
+changeset:   427:ee98f2b50ffa
+branch:      2011
+user:        Parth buch <parth.buch.115@gmail.com>
+date:        Fri Sep 30 20:39:50 2011 +0530
+summary:     added twitter and fb on the page
+
+changeset:   426:8d55ce40211c
+branch:      2011
+user:        Parth buch <parth.buch.115@gmail.com>
+date:        Fri Sep 30 20:37:47 2011 +0530
+summary:     fixed typo in eric's bio, sorted out speakers
+
+changeset:   425:25351965cd69
+branch:      2011
+user:        Parth buch <parth.buch.115@gmail.com>
+date:        Fri Sep 30 20:03:01 2011 +0530
+summary:     changed the order of speakers
+
+changeset:   424:2223aa09fd69
+branch:      2011
+user:        Parth buch <parth.buch.115@gmail.com>
+date:        Fri Sep 30 19:47:47 2011 +0530
+summary:     remove the badge link from account
+
+changeset:   423:d4316aad59ea
+branch:      2011
+user:        Parth buch <parth.buch.115@gmail.com>
+date:        Fri Sep 30 19:40:48 2011 +0530
+summary:     activated the speakers link
+
+changeset:   422:5a5aa1a21599
+branch:      2011
+user:        Parth buch <parth.buch.115@gmail.com>
+date:        Fri Sep 30 19:40:33 2011 +0530
+summary:     changed the css for speakers page as it was not proper
+
+changeset:   421:32de9e8b4fad
+branch:      2011
+user:        Parth buch <parth.buch.115@gmail.com>
+date:        Fri Sep 30 19:40:09 2011 +0530
+summary:     added pics for eric and mateusz
+
+changeset:   420:56e520066333
+branch:      2011
+user:        Parth buch <parth.buch.115@gmail.com>
+date:        Fri Sep 30 18:53:41 2011 +0530
+summary:     removed the t-shirts thing as we are giving t-shirts to all attendes
+
+changeset:   419:d68f4cfebfab
+branch:      2011
+user:        Parth buch <parth.buch.115@gmail.com>
+date:        Fri Sep 30 18:53:01 2011 +0530
+summary:     changed the urls to make registration page static
+
+changeset:   418:eac3723864c1
+branch:      2011
+user:        Parth buch <parth.buch.115@gmail.com>
+date:        Fri Sep 30 18:52:30 2011 +0530
+summary:     changes the fees page
+
+changeset:   417:4dd4f6d77e10
+branch:      2011
+user:        Parth buch <parth.buch.115@gmail.com>
+date:        Fri Sep 30 18:52:10 2011 +0530
+summary:     changed the registration page to make it static and incorporate doattend
+
+changeset:   416:ddbb94b8bb22
+branch:      2011
+user:        Parth buch <parth.buch.115@gmail.com>
+date:        Fri Sep 30 18:51:39 2011 +0530
+summary:     added links to Registration and Fees page
+
+changeset:   415:4b10ebd2e758
+branch:      2011
+user:        parth buch<parth.buch.115@gmail.com>
+date:        Fri Sep 30 15:11:36 2011 +0530
+summary:     changed the database user and name
+
+changeset:   414:94eced40d112
+branch:      2011
+user:        Parth buch <parth.buch.115@gmail.com>
+date:        Fri Sep 23 13:56:17 2011 +0530
+summary:     changed the date on user/accounts page to 2011
+
+changeset:   413:0674c2abfbd6
+branch:      2011
+user:        Parth buch <parth.buch.115@gmail.com>
+date:        Fri Sep 23 13:24:20 2011 +0530
+summary:     changed the important dates
+
+changeset:   412:c38490f41551
+branch:      2011
+user:        Parth buch <parth.buch.115@gmail.com>
+date:        Tue Sep 20 18:34:36 2011 +0530
+summary:     removed the schedule from menu
+
+changeset:   411:0e6657d73a6a
+branch:      2011
+user:        Parth buch <parth.buch.115@gmail.com>
+date:        Sat Sep 17 18:20:01 2011 +0530
+summary:     Removing PSF from sponsors page
+
+changeset:   410:8266891e48ec
+branch:      2011
+user:        Parth buch <parth.buch.115@gmail.com>
+date:        Sat Sep 17 18:11:53 2011 +0530
+summary:     Removed the FSF logo
+
+changeset:   409:90879781b517
+branch:      2011
+user:        Parth buch <parth.buch.115@gmail.com>
+date:        Wed Sep 14 18:57:36 2011 +0530
+summary:     changed some typos and errors in reaching.html
+
+changeset:   408:2a34cfa6b417
+branch:      2011
+user:        Parth buch <parth.buch.115@gmail.com>
+date:        Wed Sep 14 17:02:38 2011 +0530
+summary:     removed the date from venue page
+
+changeset:   407:4685b1804796
+branch:      2011
+user:        Parth buch <parth.buch.115@gmail.com>
+date:        Wed Sep 14 16:50:16 2011 +0530
+summary:     removed about host city entry
+
+changeset:   406:5e4c3973d649
+branch:      2011
+user:        Parth buch <parth.buch.115@gmail.com>
+date:        Wed Sep 14 16:49:57 2011 +0530
+summary:     changed LTTE to LTT as suggesged by jovina
+
+changeset:   405:6795ae41f54b
+branch:      2011
+user:        Parth buch <parth.buch.115@gmail.com>
+date:        Wed Sep 14 16:27:06 2011 +0530
+summary:     changed the javascript on registration page to have only four days of accomodation
+
+changeset:   404:17a24435fc93
+branch:      2011
+user:        Parth buch <parth.buch.115@gmail.com>
+date:        Wed Sep 14 16:21:56 2011 +0530
+summary:     changed the 'reaching the venue' page
+
+changeset:   403:0c8c5343fb27
+branch:      2011
+parent:      402:2a7bae65f084
+parent:      396:c4b236ea6912
+user:        Parth buch <parth.buch.115@gmail.com>
+date:        Wed Sep 14 16:18:45 2011 +0530
+summary:     merged the changes from primal
+
+changeset:   402:2a7bae65f084
+branch:      2011
+user:        Parth buch <parth.buch.115@gmail.com>
+date:        Wed Sep 14 16:16:46 2011 +0530
+summary:     changed the 'reaching the venue' page
+
+changeset:   401:415a631c6dc7
+branch:      2011
+user:        Parth buch <parth.buch.115@gmail.com>
+date:        Wed Sep 14 16:16:04 2011 +0530
+summary:     changed some basic styling
+
+changeset:   400:0912ee6cf799
+branch:      2011
+user:        Parth buch <parth.buch.115@gmail.com>
+date:        Wed Sep 14 15:55:07 2011 +0530
+summary:     removed publicity and organizers from the menu
+
+changeset:   399:f2485a99f0bc
+branch:      2011
+user:        Parth buch <parth.buch.115@gmail.com>
+date:        Wed Sep 14 15:53:57 2011 +0530
+summary:     changed the sponsors information to 2011
+
+changeset:   398:09c8e955b145
+branch:      2011
+user:        Parth buch <parth.buch.115@gmail.com>
+date:        Wed Sep 14 15:41:09 2011 +0530
+summary:     added MHRD logo to sponsors
+
+changeset:   397:079ada629aaf
+branch:      2011
+parent:      393:f0f04f758f4b
+user:        Parth buch <parth.buch.115@gmail.com>
+date:        Wed Sep 14 15:38:37 2011 +0530
+summary:     changed the venue information
+
+changeset:   396:c4b236ea6912
+branch:      2011
+user:        primal primal007@gmail.com
+date:        Wed Sep 14 16:09:47 2011 +0530
+summary:     Edited the login page
+
+changeset:   395:85bbea53523f
+branch:      2011
+parent:      394:9f2a90e36386
+parent:      393:f0f04f758f4b
+user:        primal primal007@gmail.com
+date:        Wed Sep 14 15:15:04 2011 +0530
+summary:     Accomodation days reduced down to 4
+
+changeset:   394:9f2a90e36386
+branch:      2011
+parent:      391:6bf3c22e2a2e
+user:        primal primal007@gmail.com
+date:        Wed Sep 14 15:12:30 2011 +0530
+summary:     Reduced the number of days for accomodation
+
+changeset:   393:f0f04f758f4b
+branch:      2011
+user:        Parth buch <parth.buch.115@gmail.com>
+date:        Wed Sep 14 15:06:00 2011 +0530
+summary:     removed distribute setup files that can by mistake
+
+changeset:   392:566daf404839
+branch:      2011
+user:        Parth buch <parth.buch.115@gmail.com>
+date:        Wed Sep 14 15:04:34 2011 +0530
+summary:     changed the menu to remove links not currently required
+
+changeset:   391:6bf3c22e2a2e
+branch:      2011
+user:        primal primal007@gmail.com
+date:        Sun Sep 11 17:06:06 2011 +0530
+summary:     Modified Accomodation dates
+
+changeset:   390:bf3ce37fb45b
+branch:      2011
+parent:      389:fe49720e67bf
+parent:      388:c4ab8f8a0800
+user:        primal primal007@gmail.com
+date:        Sun Sep 11 16:46:33 2011 +0530
+summary:     Test Commit
+
+changeset:   389:fe49720e67bf
+branch:      2011
+parent:      385:0e1fcd57f95d
+user:        primal primal007@gmail.com
+date:        Sun Sep 11 16:34:54 2011 +0530
+summary:     Modified the registration file
+
+changeset:   388:c4ab8f8a0800
+branch:      2011
+user:        Parth buch <parth.buch.115@gmail.com>
+date:        Fri Sep 09 16:58:54 2011 +0530
+summary:     removed link to conference schedule
+
+changeset:   387:2c57790fdba9
+branch:      2011
+user:        Parth buch <parth.buch.115@gmail.com>
+date:        Fri Sep 09 16:56:38 2011 +0530
+summary:     changed a small typo
+
+changeset:   386:8ce19610fa03
+branch:      2011
+user:        Parth buch <parth.buch.115@gmail.com>
+date:        Fri Sep 09 16:56:13 2011 +0530
+summary:     changes made to schedule to reflect 2011 dates
+
+changeset:   385:0e1fcd57f95d
+branch:      2011
+user:        Parth buch <parth.buch.115@gmail.com>
+date:        Thu Sep 08 17:54:33 2011 +0530
+summary:     Changed the enthought logo to better suit the website design
+
+changeset:   384:9a2af07c9a60
+branch:      2011
+user:        Parth buch <parth.buch.115@gmail.com>
+date:        Thu Sep 08 17:48:44 2011 +0530
+summary:     Removed local organizers from right side
+
+changeset:   383:7ef2c154a31d
+branch:      2011
+user:        Parth buch <parth.buch.115@gmail.com>
+date:        Thu Sep 08 17:47:41 2011 +0530
+summary:     Changed the Sponsors information
+
+changeset:   382:0c66659b4807
+branch:      2011
+user:        Parth buch <parth.buch.115@gmail.com>
+date:        Thu Sep 08 16:41:31 2011 +0530
+summary:     changed the admin url to django version 1.3
+
+changeset:   381:0a9e3b8f6fee
+branch:      2011
+user:        Parth buch <parth.buch.115@gmail.com>
+date:        Thu Sep 08 16:24:45 2011 +0530
+summary:     Changed host city to Mumbai in menu
+
+changeset:   380:740cba745458
+branch:      2011
+user:        Parth buch <parth.buch.115@gmail.com>
+date:        Thu Sep 08 16:24:02 2011 +0530
+summary:     commented out links to download slides and videos
+
+changeset:   379:7e843a934d74
+branch:      2011
+user:        Parth buch <parth.buch.115@gmail.com>
+date:        Thu Sep 08 16:20:00 2011 +0530
+summary:     Changed the title and header to Scipy 2011
+
+changeset:   378:0a9aa58f0586
+branch:      2011
+user:        Parth buch <parth.buch.115@gmail.com>
+date:        Thu Sep 08 16:19:23 2011 +0530
+summary:     Modified the admin url to work with django version 1.3
+
+changeset:   377:bbb0f40223be
+branch:      2011
+user:        Parth buch <parth.buch.115@gmail.com>
+date:        Thu Sep 08 16:10:54 2011 +0530
+summary:     changed current scope to scipy/2011
+
+changeset:   376:5debb109a899
+branch:      2011
+user:        Parth buch <parth.buch.115@gmail.com>
+date:        Thu Sep 08 15:35:41 2011 +0530
+summary:     Updated django to version 1.3 and replaced the django app repositories to the new ones
+
+changeset:   375:146fb4874a9c
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Mon Jan 10 16:37:15 2011 +0530
+summary:     Fix the Part 3 Video link and remove Part 4 video link since it does not exist.
+
+changeset:   374:df1fe9447ff7
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Fri Dec 31 16:50:14 2010 +0530
+summary:     Remove admin@scipy.in email ID from the email List. The spam is too much.
+
+changeset:   373:a004342f3425
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Mon Dec 27 03:51:41 2010 +0530
+summary:     Add the slides from the Conference and Tutorials to the new section.
+
+changeset:   372:14854e1848e8
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Wed Dec 29 18:26:18 2010 +0530
+summary:     Update Jarrod's image again.
+
+changeset:   371:f2b47f5dac06
+user:        Amit Sethi
+date:        Wed Dec 29 15:12:28 2010 +0530
+summary:     Changes to put a download videos link and page on scipy.in
+
+changeset:   370:58f8580cb641
+user:        Nishanth Amuluru <nishanth@fossee.in>
+date:        Tue Dec 28 22:43:17 2010 +0530
+summary:     Updated Jarrod's display image
+
+changeset:   369:7ea06f159d15
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Mon Dec 27 03:51:41 2010 +0530
+summary:     Add the slides from the Conference and Tutorials to the new section.
+
+changeset:   368:704af5be5fb9
+parent:      367:206a8a72d77c
+parent:      366:a52775d210e3
+user:        Amit Sethi
+date:        Fri Dec 24 16:02:21 2010 +0530
+summary:     Merging heads
+
+changeset:   367:206a8a72d77c
+parent:      328:f71e17a05344
+user:        Amit Sethi
+date:        Fri Dec 24 15:54:25 2010 +0530
+summary:     Added scipy press release
+
+changeset:   366:a52775d210e3
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Sun Dec 12 03:27:21 2010 +0530
+summary:     Add jquery UI images for CSS.
+
+changeset:   365:9fb175da83a5
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Sat Dec 11 17:31:35 2010 +0530
+summary:     Add ordering for names on the CSV list.
+
+changeset:   364:7d3cb6c7a22f
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Sat Dec 11 14:44:37 2010 +0530
+summary:     Added Jarrod's talk abstract to the website.
+
+changeset:   363:6c860e686ba3
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Fri Dec 10 20:30:06 2010 +0530
+summary:     Added all the images required to the reaching the venue page.
+
+changeset:   362:e321545caadf
+user:        Puneeth Chaganti <punchagan@fossee.in>
+date:        Fri Dec 10 20:20:51 2010 +0530
+summary:     Adding reaching venue page.
+
+changeset:   361:a109ce7f7758
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Fri Dec 10 19:16:36 2010 +0530
+summary:     Typos corrections suggested by KD for the about pages.
+
+changeset:   360:2c78e4a8e2c9
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Fri Dec 10 18:58:57 2010 +0530
+summary:     CDAC talk added to scheduled talks.
+
+changeset:   359:9640495f5097
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Fri Dec 10 18:41:40 2010 +0530
+summary:     Email to be sent to participants about contact details and registration updates just before finals.
+
+changeset:   358:c09beee32d9b
+user:        Nishanth Amuluru <nishanth@fossee.in>
+date:        Fri Dec 10 16:05:09 2010 +0530
+summary:     Updated the tutorial page
+
+changeset:   357:bbfee5259b95
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Fri Dec 10 14:20:18 2010 +0530
+summary:     Removed non-form fields from detailed fields display.
+
+changeset:   356:6a9bd80f5e6e
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Fri Dec 10 14:11:23 2010 +0530
+summary:     Add phone number field to Registration Admin page.
+
+changeset:   355:bce85144acd5
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Thu Dec 09 20:24:32 2010 +0530
+summary:     Added a talk to be given by CDAC people.
+
+changeset:   354:5fb620cdacf2
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Thu Dec 09 20:08:25 2010 +0530
+summary:     Add the string control character for CSV full name field.
+
+changeset:   353:bd083c34aa43
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Thu Dec 09 20:06:34 2010 +0530
+summary:     Update gender info on CSV.
+
+changeset:   352:781d7bc60cc9
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Thu Dec 09 20:04:51 2010 +0530
+summary:     Update male and female status and html page rendering for accommodation.
+
+changeset:   351:defd9ea5f143
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Thu Dec 09 19:50:24 2010 +0530
+summary:     Fix the all accommodation number to female requirements.
+
+changeset:   350:baf939071b60
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Thu Dec 09 19:49:27 2010 +0530
+summary:     Male and Female participants stats on website.
+
+changeset:   349:4a07363689b5
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Thu Dec 09 19:34:39 2010 +0530
+summary:     Fix download PDF to download CSV and double quote all the names.
+
+changeset:   348:88cb9f42880c
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Thu Dec 09 19:33:57 2010 +0530
+summary:     Number of male and female participants requesting accommodation.
+
+changeset:   347:8d2db7a11434
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Thu Dec 09 19:21:04 2010 +0530
+summary:     Put a comma in the list after City
+
+changeset:   346:c2edf840db70
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Thu Dec 09 19:19:16 2010 +0530
+summary:     User and Scope to get_or_create must be keyword arguments.
+
+changeset:   345:bc50906a9fee
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Thu Dec 09 19:15:14 2010 +0530
+summary:     Creating Payment, Accommodation and Wifi objects require scope and user objects.
+
+changeset:   344:47db5bd2a791
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Thu Dec 09 19:12:05 2010 +0530
+summary:     Make the Download line more visible for downloading CSV.
+
+changeset:   343:debfd9506f40
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Thu Dec 09 19:11:15 2010 +0530
+summary:     Create payment and wifi objects if they don't exist.
+
+changeset:   342:21dc37050a37
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Thu Dec 09 19:08:12 2010 +0530
+summary:     Make downloadable CSV for stats page.
+
+changeset:   341:bc29a1bb4010
+user:        Puneeth Chaganti <punchagan@fossee.in>
+date:        Wed Dec 08 23:18:35 2010 +0530
+summary:     Changes to tutorial schedule.
+
+changeset:   340:7de34186254e
+user:        Puneeth Chaganti <punchagan@fossee.in>
+date:        Wed Dec 08 23:04:29 2010 +0530
+summary:     Added tutorial outline.
+
+changeset:   339:3f21f7e57e9d
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Wed Dec 08 00:39:01 2010 +0530
+summary:     Fix More Lightning talks broken link on Conference Schedule page.
+
+changeset:   338:5b0a6b71fd64
+user:        Puneeth Chaganti <punchagan@fossee.in>
+date:        Tue Dec 07 20:01:21 2010 +0530
+summary:     Changed schedule of Day-1 to include Farhat.
+
+changeset:   337:f3e61d6bf78f
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Tue Dec 07 19:59:28 2010 +0530
+summary:     Updated website about Food.
+
+changeset:   336:ce5fbef32806
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Sat Dec 04 18:08:53 2010 +0530
+summary:     Changed the right hand sidebar 10008th time.
+
+changeset:   335:42b14ae026b0
+user:        Puneeth Chaganti <punchagan@fossee.in>
+date:        Sat Dec 04 14:38:15 2010 +0530
+summary:     Changed paper submission deadline.
+
+changeset:   334:730b6fc145d6
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Fri Dec 03 19:07:23 2010 +0530
+summary:     Added a 404 handler.
+
+changeset:   333:142f7f94de19
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Fri Dec 03 18:12:58 2010 +0530
+summary:     Added settings static file path.
+
+changeset:   332:2eb286e89615
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Thu Dec 02 19:44:55 2010 +0530
+summary:     Added a section in buildout configuration for report lab.
+
+changeset:   331:2ac3cf08cd00
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Thu Dec 02 19:13:08 2010 +0530
+summary:     Changed report lab eggs location.
+
+changeset:   330:2c38a7cafba9
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Thu Dec 02 19:09:32 2010 +0530
+summary:     Add reportlab eggs.
+
+changeset:   329:9e2fc4b26a26
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Thu Dec 02 17:38:44 2010 +0530
+summary:     Push all the south migrations.
+
+changeset:   328:f71e17a05344
+user:        Amit Sethi
+date:        Wed Dec 01 19:45:16 2010 +0530
+summary:     Fixed a link bug on accounts.html template enables editting talks
+
+changeset:   327:507a1ac1fd43
+user:        Amit Sethi
+date:        Wed Dec 01 19:40:34 2010 +0530
+summary:     Added link for badge on account page
+
+changeset:   326:1368a770d991
+user:        Amit Sethi
+date:        Wed Dec 01 15:42:18 2010 +0530
+summary:     Changed the accomodation page table
+
+changeset:   325:1255f442e4f8
+user:        Amit Sethi
+date:        Wed Dec 01 12:20:13 2010 +0530
+summary:     Some changes to font size on badge according to recommendation
+
+changeset:   324:1ad0be6866d6
+user:        Amit Sethi
+date:        Wed Dec 01 12:14:55 2010 +0530
+summary:     Added Laptop registration no to badge
+
+changeset:   323:5d8dd7139b49
+parent:      322:eeb66c089545
+parent:      321:fa3b368d39ea
+user:        Amit Sethi
+date:        Tue Nov 30 18:34:59 2010 +0530
+summary:     Merging heads
+
+changeset:   322:eeb66c089545
+parent:      320:9414017a5589
+user:        Amit Sethi
+date:        Tue Nov 30 18:34:12 2010 +0530
+summary:     changes to buildout for pdf generation
+
+changeset:   321:fa3b368d39ea
+parent:      319:26137e53781e
+parent:      320:9414017a5589
+user:        amit@shrike.aero.iitb.ac.in
+date:        Tue Nov 30 17:53:10 2010 +0530
+summary:     Merging heads
+
+changeset:   320:9414017a5589
+parent:      314:d49cd84fb9c0
+user:        Amit Sethi
+date:        Tue Nov 30 17:51:08 2010 +0530
+summary:     Added view for automatic badge generation
+
+changeset:   319:26137e53781e
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Tue Nov 30 16:21:59 2010 +0530
+summary:     Changed verbose names for accommodation fields from days to dates's nights.
+
+changeset:   318:6963bc54d5c2
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Tue Nov 30 16:17:05 2010 +0530
+summary:     Fix preceding accommodation which were stolen away by magic.
+
+changeset:   317:1f227f3b70e4
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Tue Nov 30 16:01:52 2010 +0530
+summary:     Re-enable south in development version.
+
+changeset:   316:88ff5f6b43f4
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Tue Nov 30 15:58:17 2010 +0530
+summary:     Fixing accommodation typo.
+
+changeset:   315:566e5f783e75
+user:        Nishanth Amuluru <nishanth@fossee.in>
+date:        Tue Nov 30 15:51:23 2010 +0530
+summary:     Added six fields corresponding to accomodation in  the accomodation model and made corresponding changes to view and form
+
+changeset:   314:d49cd84fb9c0
+user:        Amit Sethi
+date:        Tue Nov 30 15:44:14 2010 +0530
+summary:     Making some small changes to accomodation page
+
+changeset:   313:14b5c173b344
+user:        Amit Sethi
+date:        Mon Nov 29 23:11:14 2010 +0530
+summary:     Enabling the Accomodation link
+
+changeset:   312:3aa069cc2ae9
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Mon Nov 29 22:15:01 2010 +0530
+summary:     Made manage payment available only to admin not to staff, bug fix, previous commit log is misleading.
+
+changeset:   311:4f16278c2369
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Mon Nov 29 22:12:15 2010 +0530
+summary:     Added manage payment URL to left sidebar and made accessible only to site admins.
+
+changeset:   310:3541adaa5cd3
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Mon Nov 29 21:16:22 2010 +0530
+summary:     Provide Javascript support and add all view related changes for form.
+
+changeset:   309:861223798fa4
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Mon Nov 29 21:15:51 2010 +0530
+summary:     Add new fields to payment form for accommodation.
+
+changeset:   308:d552e3a8f7e2
+user:        Amit Sethi
+date:        Mon Nov 29 16:16:28 2010 +0530
+summary:     changes to accomodation page added table for nearby hotels
+
+changeset:   307:d0e2902f5de3
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Mon Nov 29 15:31:12 2010 +0530
+summary:     Modifying Accommodation content for SciPy.in 2010.
+
+changeset:   306:3722fe245bd8
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Sun Nov 28 23:38:06 2010 +0530
+summary:     Changed right side menu to have organizers and local organizers.
+
+changeset:   305:df4715226454
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Sun Nov 28 23:29:20 2010 +0530
+summary:     Made few styling adjustments to venues page.
+
+changeset:   304:52982854f0fe
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Sun Nov 28 23:26:45 2010 +0530
+summary:     Updated the venues page to include ISB and MSLC.
+
+changeset:   303:19dcaef9aa1b
+user:        Kadambari Devarajan <kadambari.devarajan@gmail.com>
+date:        Sat Nov 27 14:15:04 2010 +0530
+summary:     Corrections to Mahindra Satyam description.
+
+changeset:   302:c875bfd3050b
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Fri Nov 26 19:33:15 2010 +0530
+summary:     Add new pages as html sources.
+
+changeset:   301:49b56af22f04
+user:        Kadambari Devarajan <kadambari.devarajan@gmail.com>
+date:        Fri Nov 26 19:29:54 2010 +0530
+summary:     Add a new page for Sponsors and all the boiler plate. Add responsibilities for each sponsor. Remove all the sponsor information from right hand menu.
+
+changeset:   300:6e1001230377
+user:        Kadambari Devarajan <kadambari.devarajan@gmail.com>
+date:        Fri Nov 26 19:28:20 2010 +0530
+summary:     Add a page for Important dates and all the boiler plate. Edit and improve the main page content.
+
+changeset:   299:3c1c0ee29c59
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Thu Nov 25 19:13:34 2010 +0530
+summary:     Add Enthought and PSF as sponsors.
+
+changeset:   298:b2966d61f1dc
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Thu Nov 25 18:46:36 2010 +0530
+summary:     Adding logo images for ISB, EnhanceEdu, Mahindra Satyam.
+
+changeset:   297:ccfa7953b68c
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Thu Nov 25 18:44:38 2010 +0530
+summary:     Adding ISB, Mahindra Satyam and EnhanceEdu's logos to relevant sponsorship lists.
+
+changeset:   296:8323e8d7d1f4
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Thu Nov 25 17:30:58 2010 +0530
+summary:     Add bank name to sample of NEFT.
+
+changeset:   295:e8f8a599e594
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Thu Nov 25 13:30:00 2010 +0530
+summary:     Added Jarrod's talk title and abstract to the schedule.
+
+changeset:   294:7c12c63fef3b
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Wed Nov 24 20:17:58 2010 +0530
+summary:     Add IIITH logo to the website right hand side menu.
+
+changeset:   293:f05cadb9d84b
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Wed Nov 24 19:33:36 2010 +0530
+summary:     Add IIITH logo to the static content on the site.
+
+changeset:   292:bc234e6f3ae5
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Wed Nov 24 19:05:27 2010 +0530
+summary:     Add the mail content for confirmation of fees.
+
+changeset:   291:182b03a1e6fe
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Wed Nov 24 19:05:14 2010 +0530
+summary:     Add a way to send mail as confirmation for users for manage payments.
+
+changeset:   290:3ea1acce0f78
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Mon Nov 22 17:55:01 2010 +0530
+summary:     Add payment mode and details to the management page details.
+
+changeset:   289:91aeddac8b80
+user:        Puneeth Chaganti <punchagan@fossee.in>
+date:        Sun Nov 21 12:18:24 2010 +0530
+summary:     Capitalized USB CONNECTIVITY.
+
+changeset:   288:8d56bd800a81
+user:        Puneeth Chaganti <punchagan@fossee.in>
+date:        Fri Nov 19 21:55:53 2010 +0530
+summary:     Added Stefan's talk.
+
+changeset:   287:ff1f346f9cf1
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Fri Nov 19 17:17:22 2010 +0530
+summary:     Modify the content CSS to have a larger margin.
+
+changeset:   286:1c7794b1b55a
+user:        Puneeth Chaganti <punchagan@fossee.in>
+date:        Fri Nov 19 16:19:45 2010 +0530
+summary:     Added talk tags for special and invited talks.
+
+changeset:   285:b8f0cdfe8007
+user:        Puneeth Chaganti <punchagan@fossee.in>
+date:        Fri Nov 19 11:05:36 2010 +0530
+summary:     Added Krishnakant's talk abstract
+
+changeset:   284:291f4bb93888
+user:        Puneeth Chaganti <punchagan@fossee.in>
+date:        Fri Nov 19 00:17:05 2010 +0530
+summary:     Changed year in scripts/mails.py.
+
+changeset:   283:14e8dada23e0
+user:        Puneeth Chaganti <punchagan@fossee.in>
+date:        Thu Nov 18 23:17:50 2010 +0530
+summary:     Minor changes to speaker_accepted_mail.html.
+
+changeset:   282:d12747881541
+user:        Puneeth Chaganti <punchagan@fossee.in>
+date:        Thu Nov 18 23:13:26 2010 +0530
+summary:     Changed speaker_accepted_mail.
+
+changeset:   281:2c33b9ff1530
+user:        Puneeth Chaganti <punchagan@fossee.in>
+date:        Thu Nov 18 17:21:38 2010 +0530
+summary:     Added Schedule.
+
+changeset:   280:7c42eb0b0fa8
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Thu Nov 18 20:25:58 2010 +0530
+summary:     Removed south from installed apps.
+
+changeset:   279:451cdbc98dff
+parent:      243:483641c2a98a
+parent:      278:2ea8af6851c9
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Thu Nov 18 19:27:11 2010 +0530
+summary:     Make default the active branch.
+
+changeset:   278:2ea8af6851c9
+branch:      payments
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Thu Nov 18 19:04:24 2010 +0530
+summary:     Modify the delegate_remainder function to send mails for the registered user and add content for registration update mail.
+
+changeset:   277:b203f1792ed2
+branch:      payments
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Thu Nov 18 18:47:42 2010 +0530
+summary:     Reverted local test database name.
+
+changeset:   276:325ec5a41269
+branch:      payments
+parent:      268:2d47a3eb5ec4
+parent:      275:679a9cab4bf1
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Thu Nov 18 16:16:28 2010 +0530
+summary:     Merge payments branch with the default mainline branch.
+
+changeset:   275:679a9cab4bf1
+branch:      south-migration
+parent:      274:334746111891
+parent:      243:483641c2a98a
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Thu Nov 18 16:10:38 2010 +0530
+summary:     Merge the south migration branch with an additional field for Laptop registration number with default branch.
+
+changeset:   274:334746111891
+branch:      south-migration
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Thu Nov 18 15:03:21 2010 +0530
+summary:     Add autogenerated migrations to the registration app.
+
+changeset:   273:5129e1427557
+branch:      south-migration
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Thu Nov 18 15:02:59 2010 +0530
+summary:     Add registration_id field to initial form in the field.
+
+changeset:   272:4801b7adbbc5
+branch:      south-migration
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Thu Nov 18 15:02:40 2010 +0530
+summary:     Add registration_id field to Wifi model and make necessary changes in the form.
+
+changeset:   271:412b8db4a036
+branch:      south-migration
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Thu Nov 18 15:00:13 2010 +0530
+summary:     Add south to INSTALLED_APPS for both development and production.
+
+changeset:   270:ecab1977eea9
+branch:      south-migration
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Thu Nov 18 14:59:39 2010 +0530
+summary:     Add south location for django paths.
+
+changeset:   269:6910c4dff916
+branch:      south-migration
+parent:      233:394576ff8a2f
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Thu Nov 18 14:21:45 2010 +0530
+summary:     Add south to the buildout configuration for migrations.
+
+changeset:   268:2d47a3eb5ec4
+branch:      payments
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Thu Nov 18 14:18:33 2010 +0530
+summary:     Modify the help text of payment details to reflect examples.
+
+changeset:   267:efdc1fa99ef7
+branch:      payments
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Tue Nov 16 18:33:10 2010 +0530
+summary:     Convert multiple conditions to nested if in template since Django has a bug with conditionals in templates.
+
+changeset:   266:316d522c7d43
+branch:      payments
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Tue Nov 16 18:08:30 2010 +0530
+summary:     Add a long check for alertness of payment names in the template.
+
+changeset:   265:4b40c44d9f2d
+branch:      payments
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Tue Nov 16 18:07:25 2010 +0530
+summary:     Add a alert label block with bigger font size and red color.
+
+changeset:   264:f80e1c78dcc0
+branch:      payments
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Tue Nov 16 17:38:06 2010 +0530
+summary:     Add javascript to submit registration form template to make sure the details are supplied only when user fills in the details.
+
+changeset:   263:02593358eddc
+branch:      payments
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Tue Nov 16 17:37:36 2010 +0530
+summary:     Made adjustments in the view to make paid field a dummy form field and not a model field. Also added confirmed field as model field.
+
+changeset:   262:b7c39720475a
+branch:      payments
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Tue Nov 16 17:36:53 2010 +0530
+summary:     Remove the paid field from model form since it is now a dummy form field.
+
+changeset:   261:148f277e7db2
+branch:      payments
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Tue Nov 16 17:36:21 2010 +0530
+summary:     Typo of type field twice is fixed to details field in the form of registrantion.
+
+changeset:   260:c6f65d399286
+branch:      payments
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Tue Nov 16 17:35:03 2010 +0530
+summary:     Change the model field name of the payment from paid to confirmed.
+
+changeset:   259:93cc238021ae
+branch:      payments
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Tue Nov 16 17:34:36 2010 +0530
+summary:     Modify the help text for details field to be more harsh on users so that they are clear as to what they are supposed to provide.
+
+changeset:   258:41178e6ce096
+branch:      payments
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Tue Nov 16 17:12:38 2010 +0530
+summary:     Add a new template for payment management.
+
+changeset:   257:e2ff0c70014d
+branch:      payments
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Tue Nov 16 17:11:48 2010 +0530
+summary:     Add a view to manage payments.
+
+changeset:   256:3dedcb0a0233
+branch:      payments
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Tue Nov 16 17:11:24 2010 +0530
+summary:     Add a new URL for managing payments.
+
+changeset:   255:b20d55891709
+branch:      payments
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Mon Nov 15 19:43:15 2010 +0530
+summary:     Add cookie and return message for regstats view function.
+
+changeset:   254:7d0bb6e94deb
+branch:      payments
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Mon Nov 15 19:38:59 2010 +0530
+summary:     Add .db files to hgignore so the database file is not tracked.
+
+changeset:   253:09ec121a7ebf
+branch:      payments
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Mon Nov 15 19:36:00 2010 +0530
+summary:     Add a - to the title of the header for Registration Statistics page.
+
+changeset:   252:4e5491df6510
+branch:      payments
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Mon Nov 15 18:42:26 2010 +0530
+summary:     Use different DB for testing payments.
+
+changeset:   251:b99607287a52
+branch:      payments
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Mon Nov 15 15:10:08 2010 +0530
+summary:     Add payment forms and object details in edit and submit registration views.
+
+changeset:   250:ac52304d265d
+branch:      payments
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Mon Nov 15 15:00:35 2010 +0530
+summary:     Add a fieldset for payment details on the registration template.
+
+changeset:   249:9d90fbae1216
+branch:      payments
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Mon Nov 15 15:00:16 2010 +0530
+summary:     Add a form for Payment and respective save and clean methods.
+
+changeset:   248:0fc144c69e84
+branch:      payments
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Mon Nov 15 14:59:46 2010 +0530
+summary:     Add paid boolean field to payment model to know whether the user has already paid the fees or not.
+
+changeset:   247:2907855f18c4
+branch:      payments
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Mon Nov 15 14:59:13 2010 +0530
+summary:     Rename created variable name to acco_created for acco object creation in edit registration view function.
+
+changeset:   246:1bd29275df1f
+branch:      payments
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Mon Nov 15 14:07:40 2010 +0530
+summary:     Change docstring for form classes form PyCON to SciPyCON.
+
+changeset:   245:6ba059b30281
+branch:      payments
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Mon Nov 15 14:02:40 2010 +0530
+summary:     Add type and detail fields for the payment model.
+
+changeset:   244:5e6411f210de
+branch:      payments
+parent:      209:9f826165250a
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Wed Nov 10 07:02:57 2010 +0530
+summary:     Add a skeleton payment model.
+
+changeset:   243:483641c2a98a
+user:        Anoop Jacob Thomas<anoop@fossee.in>
+date:        Thu Nov 18 12:42:21 2010 +0530
+summary:     fixed an error in fee page.
+
+changeset:   242:01430ed5adf5
+parent:      241:159880292f66
+parent:      240:6d719268023b
+user:        Anoop Jacob Thomas<anoop@fossee.in>
+date:        Thu Nov 18 12:29:07 2010 +0530
+summary:     Merged heads.
+
+changeset:   241:159880292f66
+parent:      238:0149f28a4f74
+user:        Anoop Jacob Thomas<anoop@fossee.in>
+date:        Thu Nov 18 12:28:06 2010 +0530
+summary:     Added wire transfer details to fees page.
+
+changeset:   240:6d719268023b
+user:        Amit Sethi
+date:        Thu Nov 18 12:25:58 2010 +0530
+summary:     some more template changes to get-user-dump
+
+changeset:   239:1973bf1a0a5d
+user:        Amit Sethi
+date:        Thu Nov 18 12:20:15 2010 +0530
+summary:     Changes to the template get-user-dump
+
+changeset:   238:0149f28a4f74
+parent:      237:4cff1f43e4e1
+parent:      233:394576ff8a2f
+user:        Amit Sethi
+date:        Thu Nov 18 01:29:38 2010 +0530
+summary:     Merging heads
+
+changeset:   237:4cff1f43e4e1
+user:        Amit Sethi
+date:        Thu Nov 18 01:20:54 2010 +0530
+summary:     Changes to make it possible for someone to view daily dumps.
+
+changeset:   236:29ecd3dd6565
+user:        Amit Sethi
+date:        Wed Nov 17 23:25:09 2010 +0530
+summary:     Merging heads
+
+changeset:   235:62f1cb02cb88
+parent:      234:849c8e8391d5
+parent:      196:d6b0220e37ab
+user:        Amit Sethi
+date:        Wed Nov 03 00:58:47 2010 +0530
+summary:     Merging heads
+
+changeset:   234:849c8e8391d5
+parent:      188:e98146ed3dca
+user:        Amit Sethi
+date:        Wed Nov 03 00:13:52 2010 +0530
+summary:     Handling the 500's for urls
+
+changeset:   233:394576ff8a2f
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Tue Nov 16 18:09:55 2010 +0530
+summary:     Fix major bug: Change hard coded registration form redirect to based on User and do int conversions for ids.
+
+changeset:   232:6311e71ae54c
+user:        Kadambari Devarajan <kadambari.devarajan@gmail.com>
+date:        Mon Nov 15 19:28:57 2010 +0530
+summary:     Minor edit to schedule.
+
+changeset:   231:839dd1745ad2
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Mon Nov 15 15:47:29 2010 +0530
+summary:     Fix style issues.
+
+changeset:   230:9649b07aa4c8
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Mon Nov 15 15:46:51 2010 +0530
+summary:     Change audience database value to human readable value.
+
+changeset:   229:18a25490c673
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Mon Nov 15 15:13:00 2010 +0530
+summary:     Fix the copy paste fail of Special Talk heading from 1 to 2.
+
+changeset:   228:1199f0510480
+user:        Anoop Jacob Thomas<anoop@fossee.in>
+date:        Sun Nov 14 20:42:33 2010 +0530
+summary:     Changed video on home page to short version.
+
+changeset:   227:091f3896c5e8
+user:        Kadambari Devarajan <kadambari.devarajan@gmail.com>
+date:        Sun Nov 14 14:26:06 2010 +0530
+summary:     Added titles and abstracts of Prabhu, Asokan and Fernando.
+
+changeset:   226:53ea13a2893e
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Sun Nov 14 00:39:59 2010 +0530
+summary:     Removed other from sex selection choices for Registration accommodation form.
+
+changeset:   225:b906582ac2bb
+user:        Kadambari Devarajan <kadambari.devarajan@gmail.com>
+date:        Sat Nov 13 20:36:43 2010 +0530
+summary:     Misc edits to the City page.
+
+changeset:   224:de84ceaaa16e
+user:        Anoop Jacob Thomas<anoop@fossee.in>
+date:        Fri Nov 12 22:13:29 2010 +0530
+summary:     fixed bug in about city page.
+
+changeset:   223:cfdaf8150413
+user:        Anoop Jacob Thomas<anoop@fossee.in>
+date:        Fri Nov 12 22:08:45 2010 +0530
+summary:     changed the left menu.
+
+changeset:   222:5662015fc9e2
+user:        Anoop Jacob Thomas<anoop@fossee.in>
+date:        Fri Nov 12 22:11:25 2010 +0530
+summary:     fixed a bug in conference schedule page.
+
+changeset:   221:ed09ea8f8ea9
+user:        Anoop Jacob Thomas<anoop@fossee.in>
+date:        Fri Nov 12 22:03:26 2010 +0530
+summary:     Added abstracts to conference schedule page.
+
+changeset:   220:1633a9693efa
+user:        Kadambari Devarajan<kadambari.devarajan@gmail.com>
+date:        Fri Nov 12 21:06:49 2010 +0530
+summary:     Changed the about city page.
+
+changeset:   219:af8a1cd6ec5a
+user:        Anoop Jacob Thomas<anoop@fossee.in>
+date:        Fri Nov 12 20:20:31 2010 +0530
+summary:     embedded map in about city page.
+
+changeset:   218:0e009b0080c3
+user:        Anoop Jacob Thomas<anoop@fossee.in>
+date:        Fri Nov 12 20:04:59 2010 +0530
+summary:     added stefan's photo.
+
+changeset:   217:29e341584aba
+user:        Anoop Jacob Thomas<anoop@fossee.in>
+date:        Fri Nov 12 19:53:12 2010 +0530
+summary:     Added certificates page.
+
+changeset:   216:b64e4240e94c
+user:        Anoop Jacob Thomas<anoop@fossee.in>
+date:        Fri Nov 12 19:11:06 2010 +0530
+summary:     fixed formatting of homepage.
+
+changeset:   215:1cc6fec6a964
+user:        Anoop Jacob Thomas<anoop@fossee.in>
+date:        Fri Nov 12 19:03:55 2010 +0530
+summary:     Embedded why python video in homepage.
+
+changeset:   214:d3c910ce9a16
+user:        Anoop Jacob Thomas<anoop@fossee.in>
+date:        Fri Nov 12 12:06:41 2010 +0530
+summary:     Made changes to Schedule and Tutorials page.
+
+changeset:   213:079c29b18517
+user:        Anoop Jacob Thomas<anoop@fossee.in>
+date:        Fri Nov 12 11:42:18 2010 +0530
+summary:     Made sprints page, tutorials page and conference schedule page.
+
+changeset:   212:047b2f49979c
+user:        Anoop Jacob Thomas<anoop@fossee.in>
+date:        Thu Nov 11 18:57:49 2010 +0530
+summary:     Fixed an error in the schedule page.
+
+changeset:   211:f524b52de364
+user:        Anoop Jacob Thomas<anoop@fossee.in>
+date:        Thu Nov 11 18:56:44 2010 +0530
+summary:     Changed the schedule page.
+
+changeset:   210:b61bcea508ee
+user:        Anoop Jacob Thomas<anoop@fossee.in>
+date:        Thu Nov 11 18:43:19 2010 +0530
+summary:     Updated venue page, removed unwanted content.
+
+changeset:   209:9f826165250a
+user:        Anoop Jacob Thomas<anoop@fossee.in>
+date:        Tue Nov 09 12:51:22 2010 +0530
+summary:     changed schedule with PR.
+
+changeset:   208:d5cfc76051ed
+user:        Anoop Jacob Thomas<anoop@fossee.in>
+date:        Tue Nov 09 12:44:24 2010 +0530
+summary:     changed organizers page and the schedule with PR.
+
+changeset:   207:fe78b356c1a0
+user:        Anoop Jacob Thomas<anoop@fossee.in>
+date:        Tue Nov 09 12:37:56 2010 +0530
+summary:     changed organizers page.
+
+changeset:   206:db5233e2f0cb
+user:        Anoop Jacob Thomas <anoop@fossee.in>
+date:        Mon Nov 08 21:11:12 2010 +0530
+summary:     Changed left menu.
+
+changeset:   205:a7e07964feaf
+user:        Puneeth Chaganti <punchagan@fossee.in>
+date:        Mon Nov 08 21:10:28 2010 +0530
+summary:     Added tutorial outline.
+
+changeset:   204:30f4885bce04
+user:        Anoop Jacob Thomas<anoop@fossee.in>
+date:        Mon Nov 08 20:33:22 2010 +0530
+summary:     updated schedule page.
+
+changeset:   203:f6123d1edf06
+user:        Anoop Jacob Thomas<anoop@fossee.in>
+date:        Mon Nov 08 11:43:09 2010 +0530
+summary:     added perry's photo to speaker profile page.
+
+changeset:   202:b4391b3d5fcc
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Mon Nov 08 00:49:22 2010 +0530
+summary:     Edit views to make room for accommodation forms.
+
+changeset:   201:2363acb15410
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Mon Nov 08 00:47:39 2010 +0530
+summary:     Added Javascript to disable accommodation fields when accommodation is not required.
+
+changeset:   200:e31a620a511b
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Mon Nov 08 00:47:57 2010 +0530
+summary:     Add html form fields for accommodation forms.
+
+changeset:   199:97cbeda302a9
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Mon Nov 08 00:48:28 2010 +0530
+summary:     Added accommodation Django form, wrote the save method and overwrote the cleaner.
+
+changeset:   198:92fbbbc4c97a
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Mon Nov 08 00:48:45 2010 +0530
+summary:     Added Django model for accommodation forms.
+
+changeset:   197:44f63728e9fa
+user:        Anoop Jacob Thomas<anoop@fossee.in>
+date:        Wed Nov 03 13:42:04 2010 +0530
+summary:     Added A3 poster to publicity page.
+
+changeset:   196:d6b0220e37ab
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Tue Nov 02 22:35:02 2010 +0530
+summary:     Add the URL in the menu template for registration statistics.
+
+changeset:   195:ec3f4b2e8d37
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Tue Nov 02 22:32:53 2010 +0530
+summary:     Add the tempalte to display registration details.
+
+changeset:   194:808abc104b55
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Tue Nov 02 22:32:38 2010 +0530
+summary:     View to calculate the number of registrants per event.
+
+changeset:   193:ed5828a90109
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Tue Nov 02 22:13:12 2010 +0530
+summary:     Copy the download csv code that was earlier written but scraped.
+
+changeset:   192:d87f0cd436e6
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Tue Nov 02 22:09:20 2010 +0530
+summary:     Add a URL for registration statistics.
+
+changeset:   191:0eb941d14ec3
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Tue Nov 02 22:01:58 2010 +0530
+summary:     Changing the fee details in the registration form to the link.
+
+changeset:   190:d351d19d3589
+user:        Anoop Jacob Thomas<anoop@fossee.in>
+date:        Sun Oct 31 12:11:53 2010 +0530
+summary:     changes dates in right menu.
+
+changeset:   189:ff5ee7c15f21
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Sun Oct 31 00:17:04 2010 +0530
+summary:     Fixed the broken URL for edit registration.
+
+changeset:   188:e98146ed3dca
+user:        amit
+date:        Sat Oct 30 13:24:30 2010 +0530
+summary:     unicode fix on organizers template page
+
+changeset:   187:49b1ec16f6ab
+parent:      186:8bd09b59f359
+parent:      185:7071ab9a6703
+user:        amit
+date:        Sat Oct 30 11:58:42 2010 +0530
+summary:     Merging heads
+
+changeset:   186:8bd09b59f359
+parent:      179:851b3fe8f30c
+user:        amit
+date:        Sat Oct 30 03:33:09 2010 +0530
+summary:     Handling the password in mail problem
+
+changeset:   185:7071ab9a6703
+user:        Anoop Jacob Thomas<anoop@fossee.in>
+date:        Fri Oct 29 19:59:03 2010 +0530
+summary:     added organizers page.
+
+changeset:   184:889a396bf8b9
+user:        Anoop Jacob Thomas<anoop@fossee.in>
+date:        Fri Oct 29 19:50:58 2010 +0530
+summary:     Fixed the left menu.
+
+changeset:   183:bbf606e38919
+user:        Anoop Jacob Thomas<anoop@fossee.in>
+date:        Fri Oct 29 19:47:15 2010 +0530
+summary:     Fixed the fees page.
+
+changeset:   182:a466306ab957
+user:        Kadambari Devarajan
+date:        Fri Oct 29 18:08:57 2010 +0530
+summary:     changed PR speaker profile photo.
+
+changeset:   181:6f1ddb055929
+user:        Kadambari
+date:        Fri Oct 29 17:15:11 2010 +0530
+summary:     uploaded new A4 size scipy poster.
+
+changeset:   180:5787f3cb8c01
+user:        Kadambari Devarajan
+date:        Fri Oct 29 17:03:15 2010 +0530
+summary:     Added the registration fee page.
+
+changeset:   179:851b3fe8f30c
+user:        kadambari
+date:        Fri Oct 29 15:37:13 2010 +0530
+summary:     reviewed and updated the speaker profiles.
+
+changeset:   178:ec36f03fdca4
+user:        Anoop Jacob Thomas<anoop@fossee.in>
+date:        Thu Oct 21 17:41:06 2010 +0530
+summary:     Changed bug in menu.
+
+changeset:   177:3a98e4cbcfde
+user:        Anoop Jacob Thomas<anoop@fossee.in>
+date:        Thu Oct 21 17:29:14 2010 +0530
+summary:     Added poster.
+
+changeset:   176:6a95fa45edf2
+user:        Anoop Jacob Thomas<anoop@fossee.in>
+date:        Thu Oct 21 17:27:53 2010 +0530
+summary:     Added publicity page.
+
+changeset:   175:a51d2b6e9a78
+parent:      173:d1e03263a317
+parent:      174:ccd1a896dfea
+user:        Puneeth Chaganti <punchagan@fossee.in>
+date:        Mon Oct 18 23:29:05 2010 +0530
+summary:     Minor changes to the content of post-registration email.
+
+changeset:   174:ccd1a896dfea
+parent:      172:1e3f7e6a14ba
+user:        Puneeth Chaganti <punchagan@fossee.in>
+date:        Mon Oct 18 20:30:01 2010 +0530
+summary:     Fixed the bug with sending the mail content post registration.
+
+changeset:   173:d1e03263a317
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Mon Oct 18 19:35:33 2010 +0530
+summary:     Changed the order of speakers.
+
+changeset:   172:1e3f7e6a14ba
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Mon Oct 18 14:15:41 2010 +0530
+summary:     Changed the deadlines.
+
+changeset:   171:049b0d998377
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Mon Oct 18 13:08:44 2010 +0530
+summary:     Changed the link to Invited speakers.
+
+changeset:   170:13b97c24e6d5
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Mon Oct 18 13:08:04 2010 +0530
+summary:     Added speakers profiles and opened up the link.
+
+changeset:   169:c44a0bb8d642
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Mon Oct 18 12:13:51 2010 +0530
+summary:     Added CSS for city.
+
+changeset:   168:0d897f4062b3
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Sun Oct 17 02:28:31 2010 +0530
+summary:     Added images to About Hyderabad.
+
+changeset:   167:a19d841a71c8
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Sun Oct 17 02:14:40 2010 +0530
+summary:     Reverting the CSS padding change changes.
+
+changeset:   166:b2fc9a58b4ee
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Sun Oct 17 01:55:09 2010 +0530
+summary:     Adding scope parameter to the host city URL.
+
+changeset:   165:e5c0674761e7
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Sun Oct 17 00:09:41 2010 +0530
+summary:     Added an about page for Hyderabad city and corresponding links.
+
+changeset:   164:3b85720e62bf
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Sun Oct 17 00:09:13 2010 +0530
+summary:     Changed CSS to fit the padding.
+
+changeset:   163:c6eada0e1175
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Tue Sep 21 12:38:40 2010 +0530
+summary:     Added back photos of SciPy.in 2009 speakers.
+
+changeset:   162:f6a0f52f6f1f
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Tue Sep 21 12:13:27 2010 +0530
+summary:     Fixed the day mistake in SciPy.in 2010 schedule.
+
+changeset:   161:edbba5016ae4
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Tue Sep 21 12:06:01 2010 +0530
+summary:     Updated the schedule for SciPy.in 2010.
+
+changeset:   160:1097a7718f99
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Wed Sep 08 15:39:47 2010 +0530
+summary:     Remove Edit Column in list my talks.
+
+changeset:   159:3b0045bbea1b
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Wed Sep 08 15:39:23 2010 +0530
+summary:     Change the order of parameters for Edit talk URL.
+
+changeset:   158:3bf819c654a7
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Wed Sep 08 15:38:53 2010 +0530
+summary:     Enable talks and CFP in templates.
+
+changeset:   157:640ca1c2af76
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Wed Sep 08 15:38:12 2010 +0530
+summary:     Remove indentation for paragraphs.
+
+changeset:   156:fdbefef52e1c
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Wed Sep 08 15:37:50 2010 +0530
+summary:     Add scope to context params and list my talks method.
+
+changeset:   155:a38a60cbc6ab
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Wed Sep 08 15:37:17 2010 +0530
+summary:     Capitalize type of audience.
+
+changeset:   154:d26cedf5e0d3
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Wed Sep 08 15:36:49 2010 +0530
+summary:     Add my talks URL and remove talks-cfp prefix from URLs.
+
+changeset:   153:e617dfb5e95f
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Wed Sep 08 10:42:08 2010 +0530
+summary:     Fixed the day on for Sprint.
+
+changeset:   152:64d37556e457
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Thu Jul 22 20:17:14 2010 +0530
+summary:     Reverted the template loaders path.
+
+changeset:   151:f85b864f5f8b
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Thu Jul 22 19:55:14 2010 +0530
+summary:     Added sitemaps framework and robots framework.
+
+changeset:   150:9e0d3287d753
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Thu Jul 22 19:54:31 2010 +0530
+summary:     Changed the template loader names to be compliant with upcoming Django changes in 1.2.
+
+changeset:   149:7166c54218ef
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Thu Jul 22 14:44:57 2010 +0530
+summary:     Reformatted and reindented the code in the password template.
+
+changeset:   148:8999d67e3054
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Thu Jul 22 14:44:30 2010 +0530
+summary:     Removed 2009 from Admin base template headers.
+
+changeset:   147:c085ceb4652a
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Thu Jul 22 14:43:55 2010 +0530
+summary:     Made some style changes.
+
+changeset:   146:e23e937ddcda
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Wed Jul 21 17:02:10 2010 +0530
+summary:     Removed unwanted mail texts and made the texts scope compliant.
+
+changeset:   145:2bb21b96f246
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Wed Jul 21 03:53:04 2010 +0530
+summary:     Added contact info to footer.
+
+changeset:   144:27bde1b86666
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Wed Jul 21 03:29:54 2010 +0530
+summary:     Added registration and event to accounts page form.
+
+changeset:   143:ea9477690acd
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Wed Jul 21 03:29:21 2010 +0530
+summary:     Added creation of profile to user creation since signals were removed.
+
+changeset:   142:70fcb57d8d15
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Wed Jul 21 03:28:40 2010 +0530
+summary:     Added event and registrants to Registration summary page.
+
+changeset:   141:3a325a865252
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Wed Jul 21 03:27:56 2010 +0530
+summary:     Added get_full_name to event and used in required templates.
+
+changeset:   140:dd313f32bbe3
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Wed Jul 21 03:26:58 2010 +0530
+summary:     Changed Website author details.
+
+changeset:   139:6e4719bb7df0
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Wed Jul 21 03:26:01 2010 +0530
+summary:     Added Registration summary to the Account page.
+
+changeset:   138:250e2731039d
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Wed Jul 21 02:07:28 2010 +0530
+summary:     Reformatted the file and imports.
+
+changeset:   137:ec6e58c639bf
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Wed Jul 21 02:06:51 2010 +0530
+summary:     Added phone number, modified Occupation to be choice field.
+
+changeset:   136:267d9eee024b
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Wed Jul 21 02:05:33 2010 +0530
+summary:     Made Timeline model to refer to Event model not vice-versa.
+
+changeset:   135:782f958b2cb2
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Wed Jul 21 02:04:48 2010 +0530
+summary:     Changed the URL to scope based system.
+
+changeset:   134:6d8d8b64853e
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Wed Jul 21 02:04:03 2010 +0530
+summary:     Reformatted and reindented the submit registration form and also URLs to comply with scope based system.
+
+changeset:   133:c5de36c4573e
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Wed Jul 21 02:03:09 2010 +0530
+summary:     Reorganized registration edit form to inherit from the submit form.
+
+changeset:   132:88932f326d96
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Wed Jul 21 02:02:36 2010 +0530
+summary:     Added Proceedings submission date to the right side menu.
+
+changeset:   131:bf9cc0961c31
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Wed Jul 21 02:02:06 2010 +0530
+summary:     Modifed the LOGIN_URL variable for new scope based system.
+
+changeset:   130:c435a7c430a4
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Wed Jul 21 00:35:09 2010 +0530
+summary:     Add a initial fixture for base models i.e Event and Timeline for 2010.
+
+changeset:   129:5be95b4b3ac3
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Tue Jul 20 19:49:45 2010 +0530
+summary:     Made changes to CSS for right menu and changed the file name.
+
+changeset:   128:d804be977989
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Tue Jul 20 19:28:45 2010 +0530
+summary:     Add scope as a parameter to all view functions for user app and adjusted the URLs to accommodate scope.
+
+changeset:   127:328b5244aa1c
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Tue Jul 20 19:27:51 2010 +0530
+summary:     Add scope as a parameter to all view functions for talks app and adjusted the URLs to accommodate scope.
+
+changeset:   126:f185cb8316cf
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Tue Jul 20 19:27:16 2010 +0530
+summary:     Added scope to all URLs, all reverse functions and all view methods and removed unnecessary functions.
+
+changeset:   125:2456984cecfc
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Tue Jul 20 19:26:21 2010 +0530
+summary:     Add scope as a parameter to all view functions for proceedings app.
+
+changeset:   124:d62d301527b3
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Tue Jul 20 19:24:20 2010 +0530
+summary:     Added null=True for all the Timeline model fields.
+
+changeset:   123:d4799b7159e4
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Tue Jul 20 19:23:40 2010 +0530
+summary:     Add scope for all the URLs and adjust the formatting and indentation.
+
+changeset:   122:7bdf396d4778
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Tue Jul 20 19:18:44 2010 +0530
+summary:     Removed Wifi form from the profile summary page.
+
+changeset:   121:78d082337ca4
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Tue Jul 20 19:18:04 2010 +0530
+summary:     Added PIL to buildout.
+
+changeset:   120:e9172b05bba5
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Tue Jul 20 19:17:47 2010 +0530
+summary:     Removed CSV download and re-ordered admin and comment URL patterns.
+
+changeset:   119:05a3e98b1fe0
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Tue Jul 20 15:49:46 2010 +0530
+summary:     Adding scope as a parameter to all the views.
+
+changeset:   118:78dfa383f6a3
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Tue Jul 20 15:48:35 2010 +0530
+summary:     Changed the URLs to accommodate scope as the parameter.
+
+changeset:   117:1b68c8aa6091
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Tue Jul 20 15:46:53 2010 +0530
+summary:     Renamed and reordered the imports.
+
+changeset:   116:5191e1134082
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Tue Jul 20 15:46:27 2010 +0530
+summary:     Moved Timeline model to the top of the file.
+
+changeset:   115:4387e68286e7
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Tue Jul 20 15:45:13 2010 +0530
+summary:     Added base as a Django app.
+
+changeset:   114:9e20a949fd54
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Tue Jul 20 15:44:39 2010 +0530
+summary:     Added a new admin for base models.
+
+changeset:   113:87a87487580d
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Tue Jul 20 15:44:02 2010 +0530
+summary:     Renamed sponsors template as right side menu template.
+
+changeset:   112:d4ec8917713e
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Tue Jul 20 03:21:34 2010 +0530
+summary:     Added params.scope prefix to all the URLs.
+
+changeset:   111:0e2c94c6a9e8
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Tue Jul 20 03:20:53 2010 +0530
+summary:     Adjusted views to send the scope in params.
+
+changeset:   110:627cd08619ee
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Tue Jul 20 03:20:02 2010 +0530
+summary:     Added timeline and event models and readjusted ScopedBase model.
+
+changeset:   109:0c24d69f0631
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Tue Jul 20 03:18:54 2010 +0530
+summary:     Manipulated all URLs to recognize the scope of the entities.
+
+changeset:   108:147c75a8f163
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Tue Jul 20 02:51:29 2010 +0530
+summary:     Change the path of local sqlite3 db file.
+
+changeset:   107:d8083b07989d
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Tue Jul 20 02:51:03 2010 +0530
+summary:     Set the current program scope as a settings variable.
+
+changeset:   106:3a31881564ba
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Fri Jul 16 01:33:33 2010 +0530
+summary:     Add a scope pattern to the URLs.
+
+changeset:   105:9ce5f3e887ce
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Thu Jul 15 01:47:43 2010 +0530
+summary:     Changed the content to match SciPy.in 2010 initial plans. Commented out most part.
+
+changeset:   104:1a83a26756c3
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Thu Jul 15 00:50:38 2010 +0530
+summary:     Renamed Base Model with scope and propogated it to other models.
+
+changeset:   103:034dc9cd752e
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Thu Jul 15 00:50:16 2010 +0530
+summary:     Altered buildout configuration files to have MySQL-Python only on production.
+
+changeset:   102:68fb7911c438
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Wed Jul 14 19:34:34 2010 +0530
+summary:     Removed blog templates.
+
+changeset:   101:61fc4aa7a09a
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Wed Jul 14 19:34:12 2010 +0530
+summary:     Added base app from which all other apps inherit and made corresponding changes in other apps.
+
+changeset:   100:2e17fbcee0c3
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Wed Jul 14 19:17:31 2010 +0530
+summary:     Added back the deleted images. Had accidentally removed required images also.
+
+changeset:   99:256d32f954b6
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Wed Jul 14 19:12:44 2010 +0530
+summary:     Removed unwanted images and added FOSSEE logo. Changed right side menu.
+
+changeset:   98:d6108402f324
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Wed Jul 14 03:14:06 2010 +0530
+summary:     Changed json import to accommodate for Python 2.5.
+
+changeset:   97:16070c71aabe
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Wed Jul 14 00:07:09 2010 +0530
+summary:     Changed the heading line for SciPy.in.
+
+changeset:   96:178b89a3ca4f
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Tue Jul 13 23:40:34 2010 +0530
+summary:     Removed unwanted files and made more changes to make SciPyCon a clean app.
+
+changeset:   95:f94e0cd9a862
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Tue Jul 13 19:57:37 2010 +0530
+summary:     Removed the context processor for Sponspors.
+
+changeset:   94:87e77aa18610
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Tue Jul 13 17:59:47 2010 +0530
+summary:     Moved the files to new Django app named scipycon and modified settings.
+
+changeset:   93:e86755df35da
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Thu Apr 01 11:59:35 2010 +0530
+summary:     Add admin interface and views for proceedings. Booklet is also setup to generate paper.
+
+changeset:   92:3743275f7291
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Thu Jan 14 21:07:03 2010 +0530
+summary:     Added submission template to the repository.
+
+changeset:   91:dd6426394a9a
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Thu Jan 14 21:06:43 2010 +0530
+summary:     Added dynamic form jquery plugin to the repository.
+
+changeset:   90:587e9c025c73
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Thu Jan 14 21:05:52 2010 +0530
+summary:     Added UserProfile import which was missing to Proceedings views.
+
+changeset:   89:4ad0ba26ba48
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Thu Jan 14 21:05:06 2010 +0530
+summary:     Added URL mappers for proceedings to urls.py.
+
+changeset:   88:82702820c8a4
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Thu Jan 14 19:20:14 2010 +0530
+summary:     Added migrations files for proceedings app.
+
+changeset:   87:1ec579a679e4
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Thu Jan 14 19:19:34 2010 +0530
+summary:     Added two models, Paper and Attachments.
+
+changeset:   86:cbe77a26e7a3
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Thu Jan 14 19:19:12 2010 +0530
+summary:     Combined 2 authors fields in forms to a single author field. This will be taken care by jQuery on the UI side.
+
+changeset:   85:07b48746fe29
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Thu Jan 14 19:18:08 2010 +0530
+summary:     Changed the URL mapper for loading static content in debug mode. Appended static/.
+
+changeset:   84:d01c62c2a628
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Thu Jan 14 15:54:34 2010 +0530
+summary:     Added the initial proceedings app files and enabled them in both production and development settings.
+
+changeset:   83:c6557935bc28
+parent:      82:a123369b0901
+parent:      80:d26e46249ff7
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Mon Dec 28 23:37:32 2009 +0530
+summary:     Fixed a merge conflict with RSS feeds line commenting.
+
+changeset:   82:a123369b0901
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Mon Dec 28 23:25:47 2009 +0530
+summary:     Proceedings details mail.
+
+changeset:   81:d03e5260947e
+parent:      79:a5d348588b5b
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Wed Dec 16 23:25:46 2009 +0530
+summary:     Commented RSS feeds.
+
+changeset:   80:d26e46249ff7
+user:        hg@fossee.in
+date:        Wed Dec 16 23:42:56 2009 +0530
+summary:     Commented out RSS feed again.
+
+changeset:   79:a5d348588b5b
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Wed Dec 16 22:58:13 2009 +0530
+summary:     Added /static to speakers images.
+
+changeset:   78:795dd8aeba9f
+user:        hg@fossee.in
+date:        Wed Dec 16 22:27:22 2009 +0530
+summary:     All changes freeze along with Apache static file serving.
+
+changeset:   77:18723c0faeb1
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Mon Dec 14 01:34:46 2009 +0530
+summary:     Removed sprint and tutorial schedule from conference schedule.
+
+changeset:   76:c1f967c47334
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Mon Dec 14 01:32:05 2009 +0530
+summary:     Added tutorial schedule.
+
+changeset:   75:26f34fe4ebf5
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Mon Dec 14 01:04:27 2009 +0530
+summary:     Added 2009 to day 1's date in the sprint schedule page.
+
+changeset:   74:1f99e847a8c7
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Mon Dec 14 01:02:08 2009 +0530
+summary:     Fixed days in sprint schedule.
+
+changeset:   73:05e834df29ff
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Sun Dec 13 18:28:35 2009 +0530
+summary:     Added split schedule for tutorial and sprint.
+
+changeset:   72:c3f1a4cfb91f
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Sun Dec 13 16:36:32 2009 +0530
+summary:     Changed Travis from VP to P.
+
+changeset:   71:02621b32fb59
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Sun Dec 13 10:41:39 2009 +0530
+summary:     Updated live stream URL on the header.
+
+changeset:   70:4188deda8856
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Sun Dec 13 09:32:34 2009 +0530
+summary:     Day 2 schedule update.
+
+changeset:   69:a68aa8bc0eef
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Sat Dec 12 15:09:56 2009 +0530
+summary:     Fixed inauguration typo.
+
+changeset:   68:34a513ae187f
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Sat Dec 12 10:14:56 2009 +0530
+summary:     Fixed time issues in the schedule.
+
+changeset:   67:48454b116b66
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Sat Dec 12 09:59:42 2009 +0530
+summary:     Venue and schedule update on the day 1 of conference.
+
+changeset:   66:fdcf8ee37f4e
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Sat Dec 12 09:55:13 2009 +0530
+summary:     Added Wifi for admin page.
+
+changeset:   65:282cd6aa9fd8
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Sat Dec 12 03:18:18 2009 +0530
+summary:     Admin page changes to get the name and search fields.
+
+changeset:   64:af5a8b6cbe4b
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Sat Dec 12 03:04:07 2009 +0530
+summary:     Separated days for sprint.
+
+changeset:   63:cda1fb74ac67
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Sat Dec 12 03:02:55 2009 +0530
+summary:     Made PAsokan's talk the ending keynote.
+
+changeset:   62:59190c2d1988
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Sat Dec 12 03:00:51 2009 +0530
+summary:     Added some final touches to the schedule.
+
+changeset:   61:959ec5eaafb1
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Sat Dec 12 02:44:13 2009 +0530
+summary:     Added last day mail.
+
+changeset:   60:b078d1833e58
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Sat Dec 12 02:29:33 2009 +0530
+summary:     Updated all the schedule to a common page.
+
+changeset:   59:1229a47c63ea
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Sat Dec 12 02:17:26 2009 +0530
+summary:     Added schedule.
+
+changeset:   58:51217f07e73a
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Fri Dec 11 17:31:38 2009 +0530
+summary:     Changed style of time slots of days.
+
+changeset:   57:6699e5c82e60
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Fri Dec 11 17:29:23 2009 +0530
+summary:     Added time slots of days.
+
+changeset:   56:71488e4d8dd7
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Wed Dec 09 23:03:27 2009 +0530
+summary:     Changed width CSS property to list all talks table.
+
+changeset:   55:f6bd318b71a1
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Wed Dec 09 23:02:31 2009 +0530
+summary:     Added width CSS property to list all talks table.
+
+changeset:   54:351ca8d74da8
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Wed Dec 09 23:00:59 2009 +0530
+summary:     Removed abstract column from talks list page.
+
+changeset:   53:cc2604e0333c
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Wed Dec 09 22:57:53 2009 +0530
+summary:     Added template file for list of talks.
+
+changeset:   52:5a108419f709
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Wed Dec 09 22:57:33 2009 +0530
+summary:     Added selected talks list.
+
+changeset:   51:3ae979055114
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Wed Dec 09 22:29:44 2009 +0530
+summary:     Accommodation CSS fix.
+
+changeset:   50:18471b0201a7
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Wed Dec 09 22:23:23 2009 +0530
+summary:     Added accommodation details.
+
+changeset:   49:eaa881b6b5f3
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Tue Dec 08 20:26:06 2009 +0530
+summary:     Added how to reach the venue document.
+
+changeset:   48:bb835205604b
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Tue Dec 08 12:21:09 2009 +0530
+summary:     Summary of individual events mail to all users.
+
+changeset:   47:668e7e0881b6
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Sat Dec 05 10:12:39 2009 +0530
+summary:     Made some typo fixes to delegate reminder mail.
+
+changeset:   46:971ba6d7a529
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Sat Dec 05 10:02:10 2009 +0530
+summary:     Changed the from ID.
+
+changeset:   45:a7cb2566be42
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Sat Dec 05 10:01:38 2009 +0530
+summary:     Delegate remainder mail.
+
+changeset:   44:c390adb66ba6
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Sat Dec 05 09:39:02 2009 +0530
+summary:     Sponsorship for speakers mail.
+
+changeset:   43:cb1a447c48f4
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Thu Dec 03 01:45:17 2009 +0530
+summary:     Added a template for sending mails to remind users of their registration.
+
+changeset:   42:efacdf0cd268
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Thu Dec 03 01:44:56 2009 +0530
+summary:     Added template which sends the accepted speakes a mail.
+
+changeset:   41:cf02d105aea2
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Mon Nov 23 12:01:47 2009 +0530
+summary:     Added a template for listing my talks.
+
+changeset:   40:c8414e2b34ce
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Mon Nov 23 12:01:22 2009 +0530
+summary:     Added my talks list page.
+
+changeset:   39:a09d54338547
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Wed Nov 18 15:52:42 2009 +0530
+summary:     Compressed image of Chris Burns.
+
+changeset:   38:428f9aeb2a78
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Wed Nov 18 15:50:13 2009 +0530
+summary:     Added content and style for speakers page.
+
+changeset:   37:9b646740d5dd
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Wed Nov 18 15:49:53 2009 +0530
+summary:     Added images of the speakers.
+
+changeset:   36:a658305c5fa5
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Thu Nov 12 19:19:37 2009 +0530
+summary:     Corrected admin@scipy.in ID.
+
+changeset:   35:49fb13408210
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Thu Nov 12 13:11:35 2009 +0530
+summary:     Added a tentative schedule.
+
+changeset:   34:6363f5c657dd
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Thu Nov 12 13:11:19 2009 +0530
+summary:     Made some CSS style fixes for ol and ul.
+
+changeset:   33:7dc40ba1b35c
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Thu Nov 12 13:10:27 2009 +0530
+summary:     Added speakers section.
+
+changeset:   32:d56751e6bfb0
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Thu Nov 12 12:49:55 2009 +0530
+summary:     Added info about Scipy.
+
+changeset:   31:bb9bb88b74db
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Thu Nov 12 12:49:41 2009 +0530
+summary:     Added justify to paragraphs in CSS.
+
+changeset:   30:7885952631b5
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Thu Nov 12 12:49:24 2009 +0530
+summary:     Moved SPACE Keral from Sponsors to Organizers.
+
+changeset:   29:32b000ad43b9
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Thu Nov 12 12:49:02 2009 +0530
+summary:     Commented the print line.
+
+changeset:   28:09032925ad9d
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Wed Nov 11 16:03:10 2009 +0530
+summary:     Removed link to invoice on edit profile page.
+
+changeset:   27:1d772726c9d7
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Wed Nov 11 15:59:32 2009 +0530
+summary:     Made a small textual change in the registrations template for activation page.
+
+changeset:   26:e3e4bcbc7c19
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Wed Nov 11 15:57:57 2009 +0530
+summary:     Made a small textual change in the registrations template.
+
+changeset:   25:ad091ba95653
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Wed Nov 11 15:56:21 2009 +0530
+summary:     Added i18 loader in one of the registration templates.
+
+changeset:   24:bb1f31e9c3ab
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Wed Nov 11 15:52:26 2009 +0530
+summary:     Fixed Activation.
+
+changeset:   23:3cb3f853a193
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Wed Nov 11 15:36:08 2009 +0530
+summary:     Moved ACCOUNT_ACTIVATION_DAYS to settings.py and added name as a template variable.
+
+changeset:   22:2294c71a61ea
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Wed Nov 11 15:28:46 2009 +0530
+summary:     Made final changes to the mail to be sent.
+
+changeset:   21:127b772a3af4
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Wed Nov 11 12:55:39 2009 +0530
+summary:     Made changes to the activation mail and changed the activation dates.
+
+changeset:   20:486cfc8dd611
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Tue Nov 10 12:28:24 2009 +0530
+summary:     Added registration confirmation page.
+
+changeset:   19:fe95eee8ca3c
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Fri Nov 06 12:06:19 2009 +0530
+summary:     Made registration fixes.
+
+changeset:   18:42bc8a9c20bd
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Thu Nov 05 15:42:22 2009 +0530
+summary:     Reorganized sponsors and organizers.
+
+changeset:   17:b150327aaf38
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Thu Nov 05 15:36:14 2009 +0530
+summary:     Added sponsors for the event.
+
+changeset:   16:443f0c122c8c
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Thu Nov 05 14:41:33 2009 +0530
+summary:     css changes.
+
+changeset:   15:07e4c036a0e7
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Thu Nov 05 14:37:18 2009 +0530
+summary:     Added venue information.
+
+changeset:   14:290f37228707
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Thu Nov 05 14:25:03 2009 +0530
+summary:     Made a urls.py fix by adding ^$ to the home url mapper.
+
+changeset:   13:1de2f4008a5d
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Thu Nov 05 14:20:58 2009 +0530
+summary:     Forgot to add home.html in previous commit. Adding it now.
+
+changeset:   12:39f05885c9e7
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Thu Nov 05 14:19:47 2009 +0530
+summary:     Added home page in urls.py and its template. Also added important dates.
+
+changeset:   11:ccd48e1468bd
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Thu Nov 05 13:54:57 2009 +0530
+summary:     Removed unnecessary fields from talk views.
+
+changeset:   10:6bb24e2e6d9c
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Thu Nov 05 03:48:50 2009 +0530
+summary:     Changed Jarrod's link with his name in the organizers section.
+
+changeset:   9:e0b9c2f8c433
+parent:      8:bffb109e23c1
+parent:      6:f6851340fc73
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Thu Nov 05 03:24:06 2009 +0530
+summary:     Merged Mainline and Madhu branches.
+
+changeset:   8:bffb109e23c1
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Thu Nov 05 03:19:10 2009 +0530
+summary:     Added cfp related changes.
+
+changeset:   7:ac5a1c60c2bc
+parent:      4:f9757a637d04
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Thu Nov 05 03:01:40 2009 +0530
+summary:     Added initial migrates.
+
+changeset:   6:f6851340fc73
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Wed Nov 04 16:51:32 2009 -0500
+summary:     Added apache directory to .hgignore.
+
+changeset:   5:44bbc75fdd85
+user:        hg@fossee.in
+date:        Wed Nov 04 16:49:51 2009 -0500
+summary:     Added local changes after first push to the server.
+
+changeset:   4:f9757a637d04
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Fri Oct 30 16:09:59 2009 +0530
+summary:     Added few more items to .hgignore.
+
+changeset:   3:46bc6652d644
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Fri Oct 30 16:07:49 2009 +0530
+summary:     Removed all unwanted files.
+
+changeset:   2:5d9dfa859761
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Fri Oct 30 15:13:23 2009 +0530
+summary:     Changed the content of the Schedule and CfP pages.
+
+changeset:   1:fda1c66b25f9
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Fri Oct 30 15:09:12 2009 +0530
+summary:     Added all the files from kiwipycon and the changes made for SciPy.in.
+
+changeset:   0:9a77edda77b7
+user:        Madhusudan.C.S <madhusudancs@gmail.com>
+date:        Fri Oct 30 15:08:20 2009 +0530
+summary:     Added .hgignore file.
+

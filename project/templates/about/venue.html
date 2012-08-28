@@ -1,0 +1,58 @@
+{% extends "base.html" %}
+{% block addscripts %}
+<link rel="stylesheet" href="/static/css/leaflet.css" />
+<!--[if lte IE 8]><link rel="stylesheet" href="/static/css/leaflet.ie.css" /><![endif]-->
+<script type="text/javascript" src="/static/js/leaflet.js"></script>
+{% endblock%}
+{% block content %}
+<h1>Venue</h1>
+<div class="entry">
+
+<h1><strong>Conference Venue</strong></h1>
+<br/><br/>
+<p>
+  <a href="http://www.iitb.ac.in"><img src="/static/img/iitb_logo.jpg" height=180 alt="IIT-B Logo"
+    title="Indian Institute of Technology, Bombay"  /></a><br /><br /><br/>
+  The SciPy.in 2011 conference is being held at the
+  victor Menezes Convention Centre of the
+  <a href="http://www.iitb.ac.in/">Indian Institute of Technology, Bombay</a> (IITB). 
+  IITB is one of India's top engineering schools and is a
+  world-renowned (and globally top-ranked) engineering school.
+</p>
+</div>
+<div id="map" style="height: 400px"></div>
+<script>
+var map = new L.Map('map');
+var cloudmadeUrl = 'http://{s}.tile.cloudmade.com/3d56af3a9c9248eb8bca93645a548e76/997/256/{z}/{x}/{y}.png',
+    cloudmadeAttrib = 'Map data &copy; 2011 OpenStreetMap contributors, Imagery &copy; 2011 CloudMade',
+    cloudmade = new L.TileLayer(cloudmadeUrl, {maxZoom: 28, attribution: cloudmadeAttrib});
+var vmcc = new L.LatLng(19.132, 72.917); // geographical point (longitude and latitude)
+map.setView(vmcc, 15).addLayer(cloudmade);
+
+var maingateLocation = new L.LatLng(19.125079,72.916483);
+var maingatemarker = new L.Marker(maingateLocation);
+map.addLayer(maingatemarker);
+maingatemarker.bindPopup("IIT Bombay main gate").openPopup();
+
+var h1Location = new L.LatLng(19.136695,72.913844);
+var h1marker = new L.Marker(h1Location);
+map.addLayer(h1marker);
+h1marker.bindPopup("Hostel 1").openPopup();
+
+var h11Location = new L.LatLng(19.133188,72.911934);
+var h11marker = new L.Marker(h11Location);
+map.addLayer(h11marker);
+h11marker.bindPopup("Hostel 11").openPopup();
+
+var sameerLocation = new L.LatLng(19.138347,72.915314);
+var sameermarker = new L.Marker(sameerLocation);
+map.addLayer(sameermarker);
+sameermarker.bindPopup("Sameer Guest House").openPopup();
+
+var vmccLocation = new L.LatLng(19.132833, 72.917342);
+var vmccmarker = new L.Marker(vmccLocation);
+map.addLayer(vmccmarker);
+vmccmarker.bindPopup("<b>VMCC</b><br />Venue:Scipy India 2011").openPopup();
+
+</script>
+{% endblock content %}

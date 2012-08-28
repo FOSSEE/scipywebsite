@@ -1,0 +1,320 @@
+{% extends "base.html" %}
+{% block content %}
+<h1 class="title">SciPy.in 2011 Tutorial Schedule</h1>
+
+<h2 id="sec-1">Day 3 </h2>
+
+
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+<caption></caption>
+<colgroup><col class="right" /><col class="left" /><col class="left" />
+</colgroup>
+<thead>
+<tr><th scope="col" class="right">Time</th><th scope="col" class="left">Speaker</th><th scope="col" class="left">Title</th></tr>
+</thead>
+<tbody>
+<tr><td class="right">09:00-11:00</td><td class="left">Puneeth Chaganti</td><td class="left"><a href="#sec2.1" >Git/Github + NumPy/SciPy/MPL basics</a></td></tr>
+<tr><td class="right">11:00-13:00</td><td class="left">Emmanuelle Gouillart</td><td class="left"><a href="#sec2.2">Image processing using NumPy, SciPy and scikits-image</a></td></tr>
+<tr><td class="right">13:00-14:00</td><td class="left"></td><td class="left">Lunch</td></tr>
+<tr><td class="right">14:00-15:00</td><td class="left">Ole Nielsen</td><td class="left"><a href="#sec2.5">Mapping and Geoprocessing with Python</a></td></tr>
+<tr><td class="right">15:00-18:00</td><td class="left">Gael Varoquaux</td><td class="left"><a href="#sec2.3">Machine learning with scikit-learn</a></td></tr>
+</tbody>
+</table>
+
+<h2 id="sec-2">Day 4 </h2>
+
+
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+<caption></caption>
+<colgroup><col class="right" /><col class="left" /><col class="left" />
+</colgroup>
+<thead>
+<tr><th scope="col" class="right">Time</th><th scope="col" class="left">Speaker</th><th scope="col" class="left">Title</th></tr>
+</thead>
+<tbody>
+<tr><td class="right">09:00-11:00</td><td class="left">Mateusz Paprocki</td><td class="left"><a href="#sec2.4">SymPy</a></td></tr>
+<tr><td class="right">11:00-13:00</td><td class="left">Eric Jones</td><td class="left"><a href="#sec2.6">Traits + Traits UI</a></td></tr>
+<tr><td class="right">13:00-14:00</td><td class="left"></td><td class="left">Lunch</td></tr>
+<tr><td class="right">14:00-16:00</td><td class="left">Prabhu Ramachandran and Gael Varoquaux</td><td class="left"><a href="#sec2.7">Mayavi for 3D visualization</a></td></tr>
+<tr><td class="right">16:00-17:00</td><td class="left">Puneeth Chaganti</td><td class="left"><a href="#sec2.8">Sage introduction/tutorial</a></td></tr>
+<tr><td class="right">17:00-18:00</td><td class="left">Pankaj Pandey and Prabhu Ramachandran</td><td class="left"><a href="#sec2.9">An introduction to Cython</a></td></tr>
+</tbody>
+</table>
+<br/><br/>
+
+<h2 id="sec-1"><span class="section-number-3"></span>Intended audience </h2>
+
+<p>This conference is targeted at anyone who uses Python for work in science/engineering/technology/education. This includes college and university teachers/professors/lecturers from any Engineering or Science domain, students of engineering/science/education who would like to use Python for their basic computing and plotting needs, researchers who use or would like to use Python for their research, and corporate users of Python for scientific computing.
+</p>
+
+<h2 id="sec-2"><span class="section-number-3"></span>Prerequisites </h2>
+
+<ul>
+<li>
+Participants should be comfortable computer users and be familiar with programming constructs such as loops, conditionals.
+</li>
+<li>
+Familiarity with programming editors&ndash; scite, notepad++, vi, emacs- will be a plus.
+</li>
+<li>
+Familiarity with using the commandline will be another plus.
+
+</li>
+<li>
+These tutorials are all fairly advanced and require that you be familiar with Python.
+</li>
+<li>
+For a good introduction it is recommended that you read the <a href="http://docs.python.org/tutorial/">Python Tutorial</a> completely.
+</li>
+<li>
+Spoken tutorials teaching you Python are also available <a href="http://www.fossee.in/stvideos">here</a> please go through those.
+</li>
+</ul>
+
+<h2 id="sec-4"><span class="section-number-3"></span>Coverage </h2>
+
+
+<!-- <h4 id="sec-1">Day 2 </h4> -->
+
+
+
+<h3 id="sec2.1">Puneeth Chaganti, Git/Github + NumPy/SciPy/MPL basics (2 hrs)</h3>
+<ul>
+	<li>Git/Github</li>
+	<li>NumPy and SciPy basics along with the most important Matplotlib commands.
+		This could be thought of as a quick refresher on the basic tools used in Python for scientific computing.
+	</li>
+</ul>
+
+
+
+<h3 id="sec2.2">Emmanuelle Gouillart, Image processing using NumPy, SciPy and scikits-image (2 hrs)</h3>
+<ul>
+	<li>This tutorial will show a bag of basic recipes in order to efficiently
+manipulate and process images in the form of NumPy arrays.
+	</li>
+	<li>Target audience: scientists and engineers working with images
+	</li>
+	<li>
+	Prerequisites : being able to code Python scripts and use an
+interactive Python shell + some knowledge of NumPy
+	</li>
+	<li>
+	Software requirements: IPython, NumPy, SciPy, Matplolib, <a href="http://skimage.org">scikits-image</a>, and optionally sklearn
+	</li>
+	<li>
+	Topics covered
+	<ul>
+		<li>I/O: how to open different image formats, how to open raw images, how to deal with very large raw files.</li>
+		<li>Basic visualization of images, and interaction with image data</li>
+		<li>Transforming images: changing the size, resolution, orientation of an image; image filtering; image segmentation.</li>
+		<li>Extracting information from images: measuring properties of segmented objects; image classification</li>
+	</ul>
+	<li>
+	This tutorial will by no means be a course on digital image processing.It is rather a bag of tricks on how to 
+	tinker with images, and how to use the goodies of Python/NumPy/SciPy to make this task easier. A large part 
+	of the talk will be devoted to hands-on exercises using the NumPy, SciPy 
+	and Matplotlib modules. Some other modules will be mentioned during the 
+	tutorial for more advanced uses.
+	</li>
+	<li>The course materials are available <a href="http://scipy-lectures.github.com/advanced/image_processing/index.html">here</a></li>
+</ul>
+
+
+<h3 id="sec2.3">Gael Varoquaux,   Machine learning with scikit-learn  (3 hrs)</h3>
+<ul>
+	<li>
+	Introduction to machine learning and statistical data processing with the
+	features in scikit-learn, and how to use it to solve real-world problems:
+	from handwritten digits classification to stock market prediction.
+	</li>
+	<li>
+	Target audience :   Engineers and scientists using Python for scientific
+	and numerical computing. No knowledge needed in statistical learning.
+	</li>
+	<li>
+	Prerequisites: Being able to code scripts and function in Python. Basic
+	knowledge of numpy and matplotlib.
+	</li>
+	<li>
+	Software requirements: IPython, scikits.learn, matplotlib.
+	</li>
+	<li>
+	Outline
+		<ul>
+			<li>The settings: datasets, estimators, and the prediction problem.</li>
+			<li>Regression and classification: Support Vector Machines, sparse regressions... Example: recognising hand-written digits</li>
+			<li>Model selection: choosing the right estimator, and the right parameters</li>
+			<li>Clustering: KMeans, Affinity Propagation. Example: finding structure in the stock market.</li>		
+		</ul>
+	
+	
+	</li>
+</ul>
+
+<h3 id="sec2.4">Mateusz Paprocki,  SymPy (2 hrs)</h3>
+<ul>
+	<li>
+	SymPy is a pure Python library for symbolic mathematics. It aims to become a
+	full-featured computer algebra system (CAS) while keeping the code as simple
+	as possible in order to be comprehensible and easily extensible. SymPy is
+	written entirely in Python and does not require any external libraries.
+	</li>
+	<li>
+	In this tutorial we will introduce attendees to SymPy. We will start by
+	showing how to install and run SymPy. Then we will proceed with the basics
+	of constructing and manipulating mathematical expressions in SymPy. We will
+	also discuss the most common issues and differences from other computer
+	algebra systems, and how to deal with them. We will also show how to solve
+	simple, yet illustrative mathematical problems using SymPy.
+	</li>
+	<li>
+	Outline
+		<ul>
+			<li>Installing, configuring and running SymPy.</li>
+			<li>Basics of mathematical expressions:
+ 				<ul>
+ 					<li>symbols, dummy symbols</li>
+ 					<li>constructing expressions</li>
+ 					<li>expression traversal</li>
+ 					<li>pattern matching</li>
+				</ul>
+			</li>
+			<li>Common issues, pitfalls and differences with other CAS:
+				<ul>
+					<li>1/3 is not a rational number</li>
+ 					<li>why you shouldn't write 10**(-1000)</li>
+ 					<li>issues with caching of computation results</li>
+				</ul>
+			</li>
+			<li>Using built-in and implementing customized printers.</li>
+			<li>Arbitrary precision numerical computing.</li>
+			<li>Interaction with numerical libraries (NumPy, SciPy).</li>
+			<li>Examples.</li>
+		</ul>
+	</li>
+</ul>
+
+<h3 id="sec2.5">Ole Nielsen: Mapping and Geoprocessing with Python (1 hr)</h3>
+<ul>
+	<li>
+	Putting information on a map and analyzing spatial data are fundamental to a
+ 	wide range of areas such as navigation, working with climate or geological
+ 	data, disaster management, presentation of modelling results, demographics,
+ 	social networking etc. However, making and viewing maps is just the tip of
+ 	the iceberg: to communicate spatial information much work is needed under
+ 	the hood to read, write, manipulate and process the data underpinning the
+	maps.
+	</li>
+	<li>
+	T This tutorial will give a practical introduction to tools and techniques
+ 	available for processing spatial information and, through hands-on
+	 exercises, give the participants a sense of how to manipulate spatial data
+	 using Python. Depending on time, topics covered include reading and writing
+	 of important data formats for both raster and vector data, looking at the
+ 	layers with qgis, awareness of issues with datums and projections,
+ 	calculating area and centroids of polygons, performance enhancement using
+ 	vector operations, numerical stability issues, calculation of distance
+	 between points on the surface of Earth, interpolation from raster grids to
+	 points etc. The tutorial has been developed for Ubuntu Linux 11.04/11.10 and
+	 will provide source code, tests and data for this platform. However, the
+	 content and messages should be general and apply to any self-respecting
+	 platform.
+	</li>
+	<li>
+	I assume that participants know how to write and run Python scripts and are
+ 	OK having a crack at implementing simple numerical operations such as
+ 	summations in Python. I don't assume any previous knowledge of mapping or
+ 	Geographic Information Systems (GIS). The tutorial depends on the
+ 	packages qgis and gdal-bin as well as the python dependencies python-numpy
+ 	and python-gdal which are preloaded on the distributed live-DVD. The
+ 	tutorial material itself will be available in the Subversion repository
+ 	http://oles-tutorials.googlecode.com/svn/trunk/scipy2011 and also on a USB
+ 	stick that I will bring along.		
+	</li>
+	<li>
+	If you have some spatial data you want to manipulate in Python feel free to
+ 	bring it along and grab me during a lunch break.
+	</li>
+</ul>
+
+
+<h3 id="sec2.6">Eric Jones: Traits + Traits UI (2 hrs)</h3> 
+<ul>
+	<li>
+	Enthought’s traits package provides for a powerful object model which 
+	provides a host of useful functionality with a clean and expressive syntax.  
+	It is an open source library and forms the basis of the Enthought Tool Suite and many of 
+	Enthought’s internal commercial projects.  In this tutorial we will cover the basics of using 
+	Traits along with the UI library TraitsUI which makes it very easy to build powerful and 
+	interactive, user interfaces using Traits.
+	</li>
+</ul>
+
+
+<h3 id="sec2.7">Prabhu Ramachandran and Gael Varoquaux, Mayavi for 3D visualization (2 hrs)</h3>
+<ul>
+	<li>
+	At the end of this tutorial attendees will learn how to visualize numpy
+	arrays using Mayavi's mlab interface.  They will also learn enough about
+	mayavi to be able to create their own simple datasets and visualize
+	them.  If this tutorial follows one on traits, then attendees will learn
+	how easy it is to embed 3D visualization in their own application UIs
+	(provided they are written in wxPython or PyQt).
+	</li>
+	<li>
+	In this tutorial, we first provide a rapid overview of Mayavi_ and its
+	features.  We then move on to using Mayavi via IPython_ and mlab.  This
+	is done in a hands-on fashion and introduces the audience to visualizing
+	numpy arrays and the basic mayavi visualization pipeline.  We then
+	introduce the audience to the basic objects and data sources used in
+	Mayavi.  We end with an example of creating custom dialogs using Traits
+	and embedding 3D visualization in these dialogs with Mayavi.
+	</li>
+	<li>
+	Packages required
+		<ul>
+			<li><a href="http://code.enthought.com/projects/mayavi">Mayavi</a></li>
+			<li><a href="http://ipython.scipy.org">IPython</a></li>
+			<li><a href="http://code.enthought.com/projects/traits">Traits</a></li>
+			<li>numpy, scipy</li>
+		</ul>
+	</li>
+</ul>
+
+<h3 id="sec2.8">Puneeth Chaganti, Sage introduction/tutorial: (1 hr)</h3>
+<ul>
+	<li>This tutorial will feature a demonstration and a brief review of some of the capabilities of the <a href="http://www.sagemath.org">Sage notebook</a>.</li>
+	<li>A rough schedule of the talk would be as follows:
+		<ul>
+			<li>Introduction</li>
+			<li>Starting the server</li>
+			<li>The UI</li>
+			<li>Getting Help</li>
+			<li>Overview of what's available in Sage
+				<ul>
+					<li>Basic Algebra</li>
+					<li>Basic Calculus</li>
+					<li>Basic Plotting</li>
+				</ul>
+	</li>
+		</ul>
+	</li>
+</ul>
+
+<h3 id="sec2.9">Pankaj Pandey and Prabhu Ramachandran, An introduction to Cython (1 hrs)</h3>
+<ul>
+	<li>
+	At some level, Cython (http://www.cython.org) can be thought of a Python to C compiler.  
+	It allows someone to write extension modules in a language very similar to Python and 
+	therefore makes it rather easy to write C-extensions.  In this tutorial we will cover 
+	the basics of building extension modules with Cython.
+	</li>
+	<li>
+		Package requirements: You will require to have Cython, the 
+		Python development headers and a working C-compiler to run the hands-on exercises.
+	</li>
+</ul>
+
+
+{% endblock content %}

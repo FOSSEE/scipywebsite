@@ -1,0 +1,21 @@
+{% extends "registration/submit-registration.html" %}
+
+{% block title %}Edit Registration{% endblock %}
+
+{% block formheading %}
+  <h1>Edit Registration</h1>
+{% endblock formheading %}
+
+{% block overreg %}{% endblock overreg %}
+
+{% block url_select_login %}
+  "{% url scipycon_edit_registration params.scope registration.id %}"
+{% endblock url_select_login %}
+
+{% block url_select_reg %}
+  "{% url scipycon_edit_registration params.scope registration.id %}"
+{% endblock url_select_reg %}
+
+{% block formextras %}
+  {{ registration_form.id }}
+{% endblock formextras %}

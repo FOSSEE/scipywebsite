@@ -1,0 +1,24 @@
+{% extends "base.html" %}
+{% block content %}
+<div class="entry">
+<h2> SciPy Day 2 - First Session</h2>
+<p>
+Hope you enjoyed the first day of the conference. The first talk of the second day was by <b>Gaël Varoquaux</b> on <b>Machine learning as a tool for Neuroscience</b> which was one of the highlights of the conference. He started with briefly explaining parts of his talk namely Functional Brain imaging, Models of Function and Cognitive Tasks.
+</p>
+
+<p> 
+He pointed the problem of the curse of dimensionality when trying to analyze the behavior of brain as the function of 50,000 voxels. This requires the expert knowledge of knowing to pick the right ones or you could use maching learning. Brain reading was the technique used for this purpose by predicting brain images from the object viewed. By this way of compressive sensing, we can reduce the amount of the brain data to be analyzed. This is an instance of supervised learning. Prediction is a selecton model metric.
+</p>
+
+<p>
+The challenging part of this analysis was that 95% of the brain activity is unrelated to the task. By using a combination of Sparsity, Spatial Continuity and Spatial Variability we can get individual maps(slightly different from each other) and combine them to form the functional region atlas. Now when trying to analyze the graphical by looking at the interaction between the regions, there are typically more than 1000's of connections. This kind of problems are being tried to be solved by Machine Learning.
+</p>
+
+<p>
+Next, he stepped onto the realm of Python for solving this problem by explaining about scikit-learn which is easy to pick up and technically efficient. The api of scikit-learn uses numpy arrays as inputs. It learns a model from the data and then predict the result from the model and further test for goodness of the result. The popular notion of python being slow was knocked out after he showed the stats depicting that scikits-learn was faster than C implementations in some cases of algorithmic implementation. The community of 57 contributors behind the module shows this project is popular. The successful ingredients are repo with developers and users and for other obvious reasons like short release cycles and test cases written.
+</p>
+
+<p>
+He then went onto talking about his other project joblib which provided Python functions on steroids. He briefed about the philosophy of the project and showed code on how it avoided recomputation to avoid dependency issues. He concluded the talk by pointing out, how to find the way in the software stack by being active on the mailing list and experimenting. If you are interested in attending his tutorial tomorrow, you should download his material which can be found <a href="http://gaelvaroquaux.github.com/scikit-learn-tutorial/">here.</a>
+</p>
+{% endblock content %}
