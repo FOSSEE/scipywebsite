@@ -19,7 +19,7 @@
         </li>
       </ul>
     </li>
-    <li>
+    <!--li>
     <a href="/{{ params.scope }}/about/dates/">Important Dates</a>
     </li>
     <li>
@@ -53,7 +53,7 @@
         </li>
         {% if user.is_authenticated and user.talk_set.all %}
         <li><a href="/{{ params.scope }}/my-talks">My talks</a></li>
-        {% endif %}
+        {% endif %}-->
 	
       </ul>
     </li>
@@ -67,11 +67,11 @@
       Sprints
       </a>
     </li> -->
-    <li>
+    <!--li>
       <a href="/{{ params.scope }}/certificates/">
       Certificates
       </a>
-    </li>
+    </li-->
     <li>
       About
       <ul>
@@ -96,13 +96,13 @@
     <!-- <li><a href="/{{ params.scope }}/publicity/">Publicity</a></li>
     <li><a href="/{{ params.scope }}/organizers/">Organizers</a></li> -->
     <li><a href="/{{ params.scope }}/about/sponsors/">Sponsors</a></li>
-    {% if user.is_staff %}
+    <!--{% if user.is_staff %}
     <li><a href="/{{ params.scope }}/regstats/">Registration Statistics</a></li>
     {% endif %}
     {% if user.is_superuser %}
     <li><a href="/{{ params.scope }}/manage_payments/">Manage Payments</a></li>
-    {% endif %}
-    <li>Live Blog
+    {% endif %}-->
+    <li>SciPy.in 2011 Blog
 		<ul>
 			<li><a href="/{{ params.scope }}/about/day_zero/">Day 0</a></li>
 			<li><a href="/{{ params.scope }}/about/day_one/">Day 1</a></li>
@@ -110,7 +110,7 @@
 		</ul>
 	</li>
 	
-	<li><a href="/{{ params.scope }}/about/speakerinfo/">Speaker Info</a></li>
+	<!--li><a href="/{{ params.scope }}/about/speakerinfo/">Speaker Info</a></li-->
 	
   </ul>
 </div>

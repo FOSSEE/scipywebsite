@@ -289,15 +289,14 @@ div.picture img
 
 #social-badge{
 	float:right;
-	margin-top:110px;
+	margin-top:180px;
 }
 
 /* layout */
 #header
 {
     position: absolute;
-    top: 1.15em;
-    left: 400px;
+    left: 195px;
 }
 
 #wrapper

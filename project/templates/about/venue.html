@@ -5,16 +5,12 @@
 <script type="text/javascript" src="/static/js/leaflet.js"></script>
 {% endblock%}
 {% block content %}
-<h1>Venue</h1>
 <div class="entry">
-
 <h1><strong>Conference Venue</strong></h1>
-<br/><br/>
 <p>
-  <a href="http://www.iitb.ac.in"><img src="/static/img/iitb_logo.jpg" height=180 alt="IIT-B Logo"
-    title="Indian Institute of Technology, Bombay"  /></a><br /><br /><br/>
-  The SciPy.in 2011 conference is being held at the
-  victor Menezes Convention Centre of the
+  <center><a href="http://www.iitb.ac.in"><img src="/static/img/iitb_logo.jpg" height=180 alt="IIT-B Logo"
+    title="Indian Institute of Technology, Bombay"  /></a><br /><br /><br/></center>
+  The SciPy.in 2012 conference is being held at hall No. 11 of the Lecture Hall Complex in the
   <a href="http://www.iitb.ac.in/">Indian Institute of Technology, Bombay</a> (IITB). 
   IITB is one of India's top engineering schools and is a
   world-renowned (and globally top-ranked) engineering school.
@@ -49,10 +45,10 @@ var sameermarker = new L.Marker(sameerLocation);
 map.addLayer(sameermarker);
 sameermarker.bindPopup("Sameer Guest House").openPopup();
 
-var vmccLocation = new L.LatLng(19.132833, 72.917342);
+var vmccLocation = new L.LatLng(19.13079,72.916876);
 var vmccmarker = new L.Marker(vmccLocation);
 map.addLayer(vmccmarker);
-vmccmarker.bindPopup("<b>VMCC</b><br />Venue:Scipy India 2011").openPopup();
+vmccmarker.bindPopup("<b>LCH11</b><br />Venue:Scipy India 2012").openPopup();
 
 </script>
 {% endblock content %}

@@ -5,6 +5,7 @@
   <title>{% block title %}{% endblock %} SciPy.in 2011, December 4 - 7, 2011, Mumbai, Maharashtra, India</title>
 
   <link rel="stylesheet" type="text/css" href="/static/css/jquery.jgrowl.css" />
+  <link rel="stylesheet" type="text/css" href="/static/css/header.css" />
   <link rel="stylesheet" type="text/css" href="/static/css/jquery-ui-lightness/jquery-ui-1.7.3.custom.css" />
   <link rel="stylesheet" type="text/css" href="/static/css/styles-20100720.css" />
 
@@ -36,21 +37,27 @@
 </head>
 <body>
 
-<div id="logo">
-  <a href="/"><img src="/static/img/scipyshiny_small.png"
-    alt="SciPy.in Logo" title="SciPy.in Logo"
-    width="139" height="130" /></a>
-    <div id="social-badge">
-    	<a href="http://twitter.com/scipydotin" target="_blank"><img src="/static/img/twitter.png" alt="Twitter" Title="Connect to us of Twitter" /></a>
-    	<a href="https://www.facebook.com/scipydotin2011" target="_blank"><img src="/static/img/facebook.png" alt="Facebook" Title="Connect to us of Facebook" /></a>
+<div id="logo" class="jumbotron subhead">
+<div id="social-badge">
+    	<a href="http://twitter.com/scipydotin" target="_blank"><img src="/static/img/twitter.png" alt="Twitter" Title="Connect to us of Twitter" style="border-style:solid; border-width:1px; border-color:white; border-radius:5px;" /></a>
+    	<a href="https://www.facebook.com/scipydotin2011" target="_blank"><img src="/static/img/facebook.png" alt="Facebook" Title="Connect to us of Facebook" style="border-style:solid; border-width:1px; border-color:white; border-radius:5px;" /></a>
     </div>
+    <div id="header">
+        
+  <center><table>
+  <a href="/"><tr><td rowspan=2><img src="/static/img/scipyshiny_small.png" alt="SciPy.in Logo" title="SciPy.in Logo" width="190" height="180" /></a>
+  {% block header %}
+    <td><br><font size="8">SciPy.in 2012</font>
+    <tr><td><font size="5">December 27 - 29, Mumbai, India</font>
+    </table></center>
+  {% endblock %}
+    
+    
+  <!--{% include '_menu_user.html' %}-->
+</div>
+    
 </div>
 
-<div id="header">
-  <h1>{% block header %}SciPy.in 2011</h1>
-  <h3>December 4 - 7, Mumbai, India{% endblock %}</h3>
-  {% include '_menu_user.html' %}
-</div>
 
 <div id="wrapper">
   <div id="left">
