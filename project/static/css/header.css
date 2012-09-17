@@ -5,7 +5,7 @@
     display: block;
     left: 0;
     opacity: 0.4;
-    position: absolute;
+    position: relative;
     right: 0;
     top: 0;
 }
