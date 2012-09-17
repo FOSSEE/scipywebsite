@@ -26,7 +26,7 @@ INSTALLED_APPS = (
 )
 
 DATABASE_ENGINE = 'mysql'
-DATABASE_NAME = 'scipy'
-DATABASE_USER = 'scipy_user'
+DATABASE_NAME = 'scipycon'
+DATABASE_USER = 'scipy'
 # Imports DATABASE_PASSWORD from project/local.py that is not part of mercurial repo
 from project.local import DATABASE_PASSWORD
