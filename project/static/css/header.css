@@ -16,6 +16,8 @@
 .jumbotron {
     height: 200px;
     background: -moz-linear-gradient(45deg, #C6E2FF 0%, #003F87 100%) repeat scroll 0 0 transparent;
+    background: -webkit-linear-gradient(45deg, #C6E2FF 0%, #003F87 100%) repeat scroll 0 0 transparent;
+    background: -o-linear-gradient(45deg, #C6E2FF 0%, #003F87 100%) repeat scroll 0 0 transparent;
     box-shadow: 0 3px 7px rgba(0, 0, 0, 0.2) inset, 0 -3px 7px rgba(0, 0, 0, 0.2) inset;
     color: #FFFFFF;
     padding: 40px 0;
