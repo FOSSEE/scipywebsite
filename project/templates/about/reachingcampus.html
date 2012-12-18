@@ -1,0 +1,77 @@
+{% extends "base.html" %}
+{% block addscripts %}
+<link rel="stylesheet" href="/static/css/leaflet.css" />
+<!--[if lte IE 8]><link rel="stylesheet" href="/static/css/leaflet.ie.css" /><![endif]-->
+<script type="text/javascript" src="/static/js/leaflet.js"></script>
+{% endblock%}
+{% block content %}
+<div class="entry">
+<h1><strong>Reaching IIT-B Campus</strong></h1>
+<p>
+  <a href="http://www.iitb.ac.in/">Indian Institute of Technology, Bombay</a> is in Powai, an eastern suburb in the North-Eastern part of Mumbai.
+
+  <h2>Full Address</h2>
+  <p>Indian Institute of Technology Bombay,<br>
+     Powai, Mumbai<br>
+     Postcode 400076,<br>
+     Maharashtra, INDIA.<br>
+     <br>Contact Numbers:<br>
+     Tel: +91-22-2572-2545<br>
+     Fax: +91-22-2572-3480</p>
+</p>
+<h2>This might help you to reach at IIT Campus ! <a href="/static/files/Reaching_IITB.pdf" style="color:red;"><u>Download</u></a></h2>
+
+<p> Check <a href="/{{ params.scope }}/downloads/">Downloads</a> for more useful documents which might be of help !
+</div>
+<div id="map" style="height:450px;"></div>
+<script>
+var map = new L.Map('map');
+var cloudmadeUrl = 'http://{s}.tile.cloudmade.com/3d56af3a9c9248eb8bca93645a548e76/997/256/{z}/{x}/{y}.png',
+    cloudmadeAttrib = 'Map data &copy; 2011 OpenStreetMap contributors, Imagery &copy; 2011 CloudMade',
+    cloudmade = new L.TileLayer(cloudmadeUrl, {maxZoom: 28, attribution: cloudmadeAttrib});
+var iitb = new L.LatLng(19.125079,72.916483); // geographical point (longitude and latitude)
+map.setView(iitb, 11).addLayer(cloudmade);
+
+var maingateLocation = new L.LatLng(19.125079,72.916483);
+var maingatemarker = new L.Marker(maingateLocation);
+map.addLayer(maingatemarker);
+maingatemarker.bindPopup("IIT Bombay main gate").openPopup();
+
+var thane_location = new L.LatLng(19.1828, 72.9612);
+var thane_marker = new L.Marker(thane_location);
+map.addLayer(thane_marker);
+thane_marker.bindPopup("Thane").openPopup();
+
+var bdts_Location = new L.LatLng(19.0598860,72.8414339);
+var bdts_marker = new L.Marker(bdts_Location);
+map.addLayer(bdts_marker);
+bdts_marker.bindPopup("Bandra Terminus").openPopup();
+
+var dadar_Location = new L.LatLng(19.0180, 72.8448);
+var dadar_marker = new L.Marker(dadar_Location);
+map.addLayer(dadar_marker);
+dadar_marker.bindPopup("Dadar").openPopup();
+
+var cst_Location = new L.LatLng(18.9409708,72.8346536);
+var cst_marker = new L.Marker(cst_Location);
+map.addLayer(cst_marker);
+cst_marker.bindPopup("CST").openPopup();
+
+var bct_Location = new L.LatLng(18.9706, 72.8194);
+var bct_marker = new L.Marker(bct_Location);
+map.addLayer(bct_marker);
+bct_marker.bindPopup("Bombay Central").openPopup();
+
+var ltt_Location = new L.LatLng(19.07025,72.891966);
+var ltt_marker = new L.Marker(ltt_Location);
+map.addLayer(ltt_marker);
+ltt_marker.bindPopup("Lokmanya Tilak Terminus").openPopup();
+
+var iitb_Location = new L.LatLng(19.125079,72.916483);
+var iitb_marker = new L.Marker(iitb_Location);
+map.addLayer(iitb_marker);
+iitb_marker.bindPopup("Indian Institute of Technology").openPopup();
+
+
+</script>
+{% endblock content %}
