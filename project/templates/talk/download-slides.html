@@ -1,19 +1,138 @@
 {% extends "base.html" %}
 
-{% block title %}My Talks{% endblock %}
+{% block title %}Download Slides{% endblock %}
 
 {% block content %}
-<h1>Slides for Download</h1>
-<h2>Conference Talks</h2>
-<p>
-  <a href="/static/files/conference-talks.zip">
-    Click here to download
-  </a>
-</p><br />
-<h2>Tutorials(Slides, circulate and other materials)</h2>
-<p>
-  <a href="/static/files/tutorials.zip">
-    Click here to download
-  </a>
-</p>
+<style>
+th
+{
+    font-size:18px;
+}
+.tdstyle
+{
+    width:600px;
+    height:40px;    
+    text-align:center;
+    vertical-align:middle;
+    font-weight:bold;
+}
+a
+{
+    text-decoration:underline;
+    color:#003F87;
+}
+</style>
+
+<h1 class="title" id="top"><strong>Slides for Download</strong></h1>
+
+<h3>This is an incomplete list, more slides will be uploaded soon. </h3><br>
+
+<center><h2><u><b>TUTORIALS</b></u></h2></center>
+<table name=main>
+<tr bgcolor="C6E2FF">
+    <th class=tdstyle style="width:210px;">Speaker
+    <th class=tdstyle>Slides
+    <tr>
+    <td class=tdstyle style="width:210px;">Puneeth Chaganti, Prashant <td class=tdstyle><a target="_blank" href="http://scipy-lectures.github.com">Basic Python, IPython, numpy, scipy, matplotlib</a>
+    <tr>
+    <td class=tdstyle style="width:210px;">Prabhu Ramachandran <td class=tdstyle><a href="/static/files/slides/mayavi_tutorial.pdf">Basic 3D viz with Mayavi</a>
+    <!--tr>
+    <td class=tdstyle style="width:200px;">Ole Nielsen <td class=tdstyle>Geoprocessing with Python
+    <tr>
+    <td class=tdstyle style="width:200px;">Ole Nielsen	<td class=tdstyle>Geoprocessing with Python-->
+    <!--tr>
+    <td class=tdstyle style="width:200px;">Ajith Kumar <td class=tdstyle>Python for experiments in Physics-->
+    <tr>
+    <td class=tdstyle style="width:210px;">Prabhu Ramachandran/Puneeth<td class=tdstyle><a href="/static/files/slides/cython_tutorial.pdf">ETS Intro/Cython</a>
+</tr>
+</table>
+
+<center><h2><u><b>TALKS</b></u></h2></center>
+<table name=main>
+<tr bgcolor="C6E2FF">
+    <th class=tdstyle style="width:210px;">Speaker
+    <th class=tdstyle>Slides
+    <!--tr>
+    <td class=tdstyle>14:00 - 14:15 <td class=tdstyle>Prabhu Ramachandran	<td class=tdstyle>Inauguration
+    <tr>
+    <td class=tdstyle>14:15 - 15:15 <td class=tdstyle>Ole Nielsen <td class=tdstyle>Keynote
+    <tr>
+    <td class=tdstyle>15:15 - 15:45 <td class=tdstyle colspan=2><b>Tea break</b>
+    
+    <tr>
+    <td class=tdstyle>15:45 - 16:00 <td class=tdstyle style="color : red;"><b>N.K. Sinha</b> <td class=tdstyle style="color : red;"> Special Session
+
+    <tr>
+    <td class=tdstyle>16:00 - 16:20 <td class=tdstyle>Kannan Moudgalya <td class=tdstyle>NME ICT talk-->
+    <tr>
+    <td class=tdstyle style="width:210px;">Srikant and Sachin <td class=tdstyle><a href="/static/files/slides/python-on-aakash.pdf">Akash and Python: Py in the Sky</a>
+    <tr>
+    <td class=tdstyle style="width:210px;">Saket Choudhary <td class=tdstyle><a target="_blank" href="http://saketkc.github.com/scipy-presentation/">Scilab on Cloud</a>
+    <tr>
+    <td class=tdstyle style="width:210px;">Ami Tavory  <td class=tdstyle><a href="/static/files/slides/Scientific data analysis in pipelines.odp">Scientific Data Analysis Pipelines: Push, Pull, React, Or Schedule</a>
+    <tr>
+    <td class=tdstyle style="width:210px;">Ambuja Salgaonkar et al. <td class=tdstyle><a href="/static/files/slides/Scrablelight.pptx">SCRABLELIGHT: AN EDUCATIONAL GAME, DEVELOPED IN PYTHON</a>
+    <!--tr>
+    <td class=tdstyle>Jaidev Deshpande <td class=tdstyle><a href="/static/files/slides/Scrablelight.pptx">Time-Frequency Analysis with Python</a-->
+    <tr>
+    <td class=tdstyle style="width:210px;">Prasanta Mohapatra et al. <td class=tdstyle><a href="/static/files/slides/OCAMSS.pdf">OCAMSS– An Open source Platform for Multidisciplinary Structural Sizing of Composite Aircraft Wing</a>
+    <tr>
+    <td class=tdstyle style="width:210px;">Priyank Tiwari <td class=tdstyle><a href="/static/files/slides/Free chemical process simulator toolkit using SciPy.pptx">Free chemical process simulator toolkit using SciPy</a>
+    <tr>
+    <td class=tdstyle style="width:210px;">Madhu Sharma <td class=tdstyle><a href="/static/files/slides/Python based implementation of a chaos
+based cryptosystem using external key
+.pdf">Python based implementation of a chaos based cryptosystem using external key</a>
+    <tr>
+    <td class=tdstyle style="width:210px;">Samarth Shah <td class=tdstyle><a href="/static/files/slides/Raspberry Pi and Scientific Computing.pdf">Raspberry Pi and Scientific Computing</a>
+    <tr>
+    <td class=tdstyle style="width:210px;">Kunal Puri <td class=tdstyle><a href="/static/files/slides/PyZoltanscipy2012.pdf">Wrapping Zoltan with Cython</a>
+    <tr>
+    <td class=tdstyle style="width:210px;">Rupak Rokade <td class=tdstyle><a href="/static/files/slides/SBHS Virtual labs using Python
+.pdf">SBHS Virtual Labs using Python</a>
+    <tr>
+    <td class=tdstyle style="width:210px;">B. Kanoj et al. <td class=tdstyle><a href="/static/files/slides/photo voltaic system.pdf">Simulation of Stand-alone Photovoltaic System using Python</a>
+    <tr>
+    <!--tr>
+    <td class=tdstyle style="width:210px;">Krishnakant Mane <td class=tdstyle><a href=#3.15>Python as the first language</a>
+    <tr>
+    <td class=tdstyle style="width:210px;">Krishnakant Mane <td class=tdstyle><a href=#3.16>GNUKhata a case study for Python developers</a>
+    <tr>
+    <td class=tdstyle style="width:210px;">Abdulmajid Ansari <td class=tdstyle><a href=#3.17>Enhancing Open Source Blender 3D for Structural Analysis Using Python Tool</a>
+    <tr>
+    <td class=tdstyle style="width:210px;">Abdulmajid Ansari	<td class=tdstyle><a href=#3.18>Free 3D Jewelry Modeling Software using Python Scripting Tool in Blender</a-->
+    <tr>
+    <td class=tdstyle style="width:210px;">Ashish Ku Sharma <td class=tdstyle><a href="/static/files/slides/ahp.pdf">Design of Analytic Hierarchy Process Algorithm and Its Application for Vertical Handover in Cellular Communication</a>
+    <tr>
+    <td class=tdstyle style="width:210px;">Ashish Sharma <td class=tdstyle><a href="/static/files/slides/python tool for mcq.ppt">Simple Python based tool for preparing Randomized multi-set  multiple choice question papers
+    <tr>
+    <td class=tdstyle style="width:210px;">Satish Annigeri et al.<td class=tdstyle><a href="/static/files/slides/wecs.pdf">Steady State Analysis of Autonomous Wind Energy Conversion System Employing Induction Machines for Irrigation Purpose </a>
+    <tr>
+    <td class=tdstyle style="width:210px;">Gajanan Dhanorkar et al.<td class=tdstyle><a href="/static/files/slides/Differential Equation.pdf">Solving differential equation with graphical data Visualization using Python </a>
+    </tr>
+</table>
+
+<hr>
+
+<script>
+var main = document.getElementsByName('main');
+
+for (var j=0;j<main.length;j++)
+{
+    var trs = main[j].getElementsByTagName('tr');
+    for (var i=1;i<trs.length;i++)
+    {
+        if(i%2==0)
+        {
+            trs[i].style.backgroundColor = "#C6E2FF";
+            trs[i].style.color = "#003F87"
+        }
+        else
+        {
+            trs[i].style.backgroundColor = "white";
+            trs[i].style.color = "#003F87"
+        }
+    }
+}
+</script>
+
 {% endblock content %}
